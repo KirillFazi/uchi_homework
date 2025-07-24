@@ -1,13 +1,14 @@
 """Тесты для retriever."""
 import pytest
+import numpy as np
 from unittest.mock import Mock, patch
 
-from app.rag.retriever import ChromaRetriever
+from app.rag.retriever import LangChainRetriever
 from app.schemas import Source
 
 
-class TestChromaRetriever:
-    """Тесты для ChromaRetriever."""
+class TestLangChainRetriever:
+    """Тесты для LangChainRetriever."""
     
     @pytest.fixture
     def mock_chroma_client(self):
@@ -35,24 +36,23 @@ class TestChromaRetriever:
     @pytest.fixture
     def mock_embedding_model(self):
         """Мок для модели эмбеддингов."""
-        with patch('app.rag.retriever.SentenceTransformer') as mock_model:
+        with patch('app.rag.retriever.HuggingFaceEmbeddings') as mock_model:
             mock_instance = Mock()
             # Создаем numpy array для эмбеддинга
-            import numpy as np
             mock_instance.encode.return_value = np.array([[0.1, 0.2, 0.3]])
             mock_model.return_value = mock_instance
             yield mock_model
     
     def test_retriever_initialization(self, mock_chroma_client, mock_embedding_model):
         """Тест инициализации retriever."""
-        retriever = ChromaRetriever()
+        retriever = LangChainRetriever()
         assert retriever is not None
         assert retriever.collection is not None
         assert retriever.embedding_model is not None
     
     def test_search_returns_sources(self, mock_chroma_client, mock_embedding_model):
         """Тест поиска возвращает источники."""
-        retriever = ChromaRetriever()
+        retriever = LangChainRetriever()
         sources = retriever.search("test query")
         
         assert isinstance(sources, list)
@@ -68,7 +68,7 @@ class TestChromaRetriever:
     
     def test_get_document_text(self, mock_chroma_client, mock_embedding_model):
         """Тест получения текста документа."""
-        retriever = ChromaRetriever()
+        retriever = LangChainRetriever()
         text = retriever.get_document_text("test_chunk_1")
         
         assert text is not None
@@ -77,7 +77,7 @@ class TestChromaRetriever:
     
     def test_get_context(self, mock_chroma_client, mock_embedding_model):
         """Тест получения контекста."""
-        retriever = ChromaRetriever()
+        retriever = LangChainRetriever()
         context = retriever.get_context("test query")
         
         assert isinstance(context, str)
@@ -86,7 +86,7 @@ class TestChromaRetriever:
     
     def test_health_check(self, mock_chroma_client, mock_embedding_model):
         """Тест проверки здоровья."""
-        retriever = ChromaRetriever()
+        retriever = LangChainRetriever()
         is_healthy = retriever.health_check()
         
         assert isinstance(is_healthy, bool)
@@ -104,7 +104,7 @@ class TestChromaRetriever:
         }
         mock_chroma_client.return_value.get_collection.return_value = mock_collection
         
-        retriever = ChromaRetriever()
+        retriever = LangChainRetriever()
         sources = retriever.search("test query")
         
         assert isinstance(sources, list)
@@ -117,7 +117,7 @@ class TestChromaRetriever:
         mock_collection.query.side_effect = Exception("Test error")
         mock_chroma_client.return_value.get_collection.return_value = mock_collection
         
-        retriever = ChromaRetriever()
+        retriever = LangChainRetriever()
         sources = retriever.search("test query")
         
         assert isinstance(sources, list)

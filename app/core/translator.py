@@ -4,8 +4,11 @@ from typing import Optional
 
 try:
     import torch
+    from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 except ImportError:
     torch = None
+    AutoTokenizer = None
+    AutoModelForSeq2SeqLM = None
 
 logger = logging.getLogger(__name__)
 
@@ -21,7 +24,9 @@ class QueryTranslator:
     def _initialize_model(self):
         """Инициализирует модель перевода."""
         try:
-            from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+            # Проверяем, что transformers доступен
+            if AutoTokenizer is None or AutoModelForSeq2SeqLM is None:
+                raise ImportError("transformers не установлен")
             
             # Используем модель MarianMT для перевода русский -> английский
             model_name = "Helsinki-NLP/opus-mt-ru-en"

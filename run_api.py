@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Скрипт запуска API сервера."""
+import json
 import uvicorn
+import uvicorn.config
 
 from app.core.config import settings
 from app.core.logger import logger
@@ -9,10 +11,6 @@ from app.core.logger import logger
 def main():
     """Запуск API сервера."""
     logger.info("Запускаем Moodle RAG Chatbot API...")
-    
-    # Настройка JSON кодировки для правильного отображения Unicode
-    import json
-    import uvicorn.config
     
     # Переопределяем JSON encoder для uvicorn
     class UnicodeJSONEncoder(json.JSONEncoder):
