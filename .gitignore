@@ -49,7 +49,7 @@ Thumbs.db
 # Project specific
 data/chroma/
 data/app.log
-data/raw/
+# data/raw/
 data/chunks/
 models/
 *.log

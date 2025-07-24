@@ -1,0 +1,5666 @@
+2D/3D structure display short answer
+360-degree feedback module
+ABC Music Notation
+AI placements
+AI providers
+AI subsystem
+AJAX
+AJAX and Javascript settings
+AMF Moodle
+AMOS
+AMOS manual
+APC user cache (APCu)
+ASCII
+ASCIIMathML
+AWStats
+A plan for the documentation
+About Moodle
+About Moodle FAQ
+About clusters
+Acceptance testing
+Accesibility
+Access all groups
+Accessibility
+Accessibility Block
+Accessibility Toolkit
+Accessibility notes
+Accessibility review block
+Accessibility toolkit
+Accessible Moodle Installation
+Accessible course design
+Accounts
+Accounts FAQ
+Acknowledge plagiarism statement access rule
+Active Directory
+Active Forums block
+Activities
+Activities block
+Activity
+Activity Locking
+Activity backup
+Activity chooser
+Activity completion
+Activity completion FAQ
+Activity completion report
+Activity completion settings
+Activity locking
+Activity modules
+Activity modules administration
+Activity names auto-linking
+Activity names auto-linking filter
+Activity report
+Activity restore
+Activity results block
+Adaptable theme
+Adaptive Quiz - Advanced CAT Module
+Add-on FAQ
+Add-on Review Criteria
+Add-ons
+Add/delete blog tags
+Add/edit certificate module
+Add/edit course categories
+Add/edit courses
+Add/edit feeds
+Add a new user
+Add course content
+Add fonts for embedding
+Add from MoodleNet
+Add new user
+Add new users
+Add students
+Add teachers and students
+Add users
+Adding/editing a SCORM
+Adding/editing a blog entry
+Adding/editing a calendar event
+Adding/editing a chat
+Adding/editing a choice
+Adding/editing a course
+Adding/editing a database
+Adding/editing a database activity
+Adding/editing a feedback form
+Adding/editing a forum
+Adding/editing a glossary
+Adding/editing a glossary entry
+Adding/editing a hotpot
+Adding/editing a lesson
+Adding/editing a questionnaire
+Adding/editing a quiz
+Adding/editing a survey
+Adding/editing a wiki
+Adding/editing an assignment
+Adding/editing roles
+Adding/updating Workshop
+Adding/updating a collaborative real-time editor
+Adding/updating a quiz
+Adding Feedback questions
+Adding Questionnaire questions
+Adding a branch table
+Adding a content page
+Adding a new course
+Adding a question page
+Adding activity locks
+Adding question types to lesson
+Adding questions
+Additional name fields
+Admin Report Roles capabilities
+Admin alert block
+Admin basics
+Admin bookmarks block
+Admin presets block
+Admin quick guide
+Admin tools
+Adminer
+Administration
+Administration FAQ
+Administration block
+Administration via command line
+Administrator
+Administrator do's and don'ts
+Administrator documentation
+Administrator role
+Adobe Connect
+Adobe Connect block
+Advanced Maths Tools
+Advanced features
+Advanced grading methods
+Advanced theme settings
+Advanced uploading of files assignment
+Advanced use of Markdown
+Aiken
+Aiken Format
+Aiken format
+Ajax
+Ajax marking block
+Alfresco repository
+Algebra filter
+Algebra notation
+Algebra question type
+All factor report
+All or nothing multiple choice question type
+All users
+Allow role assignments
+Allow role overrides
+Allow theme change by URL
+Amazon EC2 Cloud Services Installation
+Amazon S3
+Amazon S3 repository
+Analytics
+Analytics FAQ
+Analytics Recommendations block
+Analytics plugins
+Analytics quick guide
+Analytics settings
+Announcements
+Announcements forum
+Anonymize user
+Answers
+Anti-virus
+Antivirus plugins
+Apache
+Appointment custom fields
+Appointments
+Appointments settings
+Arguments in favour of PostgreSQL
+Asking questions
+Assign administrators
+Assign admins
+Assign roles
+Assign users to group
+Assignment
+Assignment FAQ
+Assignment activity
+Assignment admin settings
+Assignment configuration
+Assignment files report
+Assignment grading (tutorial)
+Assignment module
+Assignment module FAQ
+Assignment permissions
+Assignment quick guide
+Assignment settings
+Assignment submissions
+Assignment upgrade tool
+Assignments
+Asynchronous backups disabled
+Attendance
+Attendance activity
+Attendance block
+Attendance module
+Attendance quick guide
+Atto
+Atto Word import
+Atto editor
+Audio
+Audio FAQ
+Audio in Moodle
+Audioconferencing
+AuthMoodle
+Authenticated user
+Authenticated user role
+Authentication
+Authentication API
+Authentication FAQ
+Authentication common settings
+Auto-create groups
+Auto-link
+Auto-linking
+Auto role assignment block
+Autoattendance block
+Autoattendance module
+Autolink
+Autolinking
+Automated backup setup
+Automated course backup
+Automatic updates deployment
+Availability dataformcontent
+Available for group members only
+Available update notifications
+Awarding marks to and giving feedback on submissions
+Awards
+Azure AI API provider
+Azuresearch
+BCU theme
+BIM module
+BTEC marking
+Background
+Backpacks
+Backup
+BackupFAQ
+Backup 2.0
+Backup FAQ
+Backup and restore FAQ
+Backup log
+Backup of user data
+Backup restore
+Backup settings
+Badge
+Badges
+Badges FAQ
+Badges settings
+Banner LMB
+Beginning Moodle 2.x Administration 2 FAQ
+Benchmark report
+BigBlueButton
+BigBlueButton/view
+BigBlueButtonBN
+BigBlueButtonBN/view
+BigBlueButtonBN quick guide
+Biology
+Birthday block
+Blackboard migration
+Block
+BlockLayout
+Block jmail
+Block layout
+Block permissions
+Block settings
+Blocks
+Blocks/Add-on/GISMO/overview
+Blocks (administrator)
+Blocks (teacher)
+Blocks FAQ
+Blocks Howto
+Blocks administration
+Blog
+Blog Menu
+Blog Menu block
+Blog Tags block
+Blog menu block
+Blog permissions
+Blog preferences
+Blog settings
+Blog tags block
+Blogger role
+Blogs
+Blogs 2.0
+Blogs FAQ
+Bloom's taxonomy
+Book
+Book FAQ
+Book module
+Book resource
+Book settings
+Booking module
+Boost Campus theme
+Boost Union theme
+Boost theme
+Box.net configuration
+Box.net portfolio
+Box.net portfolio plugin
+Box.net repository
+Box.net repository configuration
+Box portfolio
+Box repository
+Branch Table
+Branch structures
+Breadcrumbs
+Brickfield toolkit
+Broken/Guidelines for contributors
+Broken/Page features
+Broken/Style guide
+Broken/Templates
+Broken/User settings
+Browse list of users
+Browser sessions
+Bug reporting
+Bug tracker
+Building Database
+Building Feedback
+Building Lesson
+Building Quiz
+Bulk course upload
+Bulk enrolments
+Bulk upload users
+Bulk user actions
+Buttons course format
+CADO resource
+CADO resource/example report
+CAS server (SSO)
+CAS server (SSO) authentication
+CBE
+CLI
+CLI scripts
+CSS
+CSV
+CSV user relationships block
+CVS (developer)
+CVS for Developers
+CVS for developers
+Cache
+Cache definitions
+Caching
+Calculated Objects question type
+Calculated multichoice question type
+Calculated question creation developper docs
+Calculated question development
+Calculated question type
+Calendar
+Calendar (administrator)
+Calendar (teacher)
+Calendar FAQ
+Calendar block
+Calendar editor role
+Calendar export
+Calendar import
+Calendar permissions
+Calendar preferences
+Calendar settings
+Can not log in
+Capabilities
+Capabilities/
+Capabilities/aiplacement/courseassist:summarise text
+Capabilities/aiplacement/editor:generate image
+Capabilities/aiplacement/editor:generate text
+Capabilities/assignfeedback/solutionsheet:viewsolution
+Capabilities/assignfeedback/solutionsheet:viewsolutionanytime
+Capabilities/atto/h5p:addembed
+Capabilities/block/activity modules:addinstance
+Capabilities/block/admin bookmarks:addinstance
+Capabilities/block/admin bookmarks:myaddinstance
+Capabilities/block/badges:addinstance
+Capabilities/block/badges:myaddinstance
+Capabilities/block/blog menu:addinstance
+Capabilities/block/blog recent:addinstance
+Capabilities/block/blog tags:addinstance
+Capabilities/block/calendar month:addinstance
+Capabilities/block/calendar month:myaddinstance
+Capabilities/block/calendar upcoming:addinstance
+Capabilities/block/calendar upcoming:myaddinstance
+Capabilities/block/comments:addinstance
+Capabilities/block/comments:myaddinstance
+Capabilities/block/community:addinstance
+Capabilities/block/community:myaddinstance
+Capabilities/block/completionstatus:addinstance
+Capabilities/block/course list:addinstance
+Capabilities/block/course list:myaddinstance
+Capabilities/block/course overview:myaddinstance
+Capabilities/block/course summary:addinstance
+Capabilities/block/email list:createfolder
+Capabilities/block/email list:editsettings
+Capabilities/block/email list:sendmessage
+Capabilities/block/feedback:addinstance
+Capabilities/block/glossary random:addinstance
+Capabilities/block/glossary random:myaddinstance
+Capabilities/block/html:addinstance
+Capabilities/block/html:myaddinstance
+Capabilities/block/login:addinstance
+Capabilities/block/lp:addinstance
+Capabilities/block/lp:myaddinstance
+Capabilities/block/mentees:addinstance
+Capabilities/block/mentees:myaddinstance
+Capabilities/block/messages:addinstance
+Capabilities/block/messages:myaddinstance
+Capabilities/block/mnet hosts:addinstance
+Capabilities/block/mnet hosts:myaddinstance
+Capabilities/block/monitor:view
+Capabilities/block/myavailable:addinstance
+Capabilities/block/myavailable:myaddinstance
+Capabilities/block/myinprogress:addinstance
+Capabilities/block/myinprogress:myaddinstance
+Capabilities/block/myoverview:myaddinstance
+Capabilities/block/myprofile:addinstance
+Capabilities/block/myprofile:myaddinstance
+Capabilities/block/myteams:addinstance
+Capabilities/block/myteams:myaddinstance
+Capabilities/block/navigation:addinstance
+Capabilities/block/navigation:myaddinstance
+Capabilities/block/news items:addinstance
+Capabilities/block/news items:myaddinstance
+Capabilities/block/online users:addinstance
+Capabilities/block/online users:myaddinstance
+Capabilities/block/online users:viewlist
+Capabilities/block/participants:addinstance
+Capabilities/block/private files:addinstance
+Capabilities/block/private files:myaddinstance
+Capabilities/block/progress:addinstance
+Capabilities/block/progress:myaddinstance
+Capabilities/block/progress:overview
+Capabilities/block/progress:showbar
+Capabilities/block/quickmail:cansend
+Capabilities/block/quiz results:addinstance
+Capabilities/block/rbreport:addinstance
+Capabilities/block/recent activity:addinstance
+Capabilities/block/recent activity:viewaddupdatemodule
+Capabilities/block/recent activity:viewdeletemodule
+Capabilities/block/rss client:addinstance
+Capabilities/block/rss client:createprivatefeeds
+Capabilities/block/rss client:createsharedfeeds
+Capabilities/block/rss client:manageanyfeeds
+Capabilities/block/rss client:manageownfeeds
+Capabilities/block/rss client:myaddinstance
+Capabilities/block/search forums:addinstance
+Capabilities/block/section links:addinstance
+Capabilities/block/selfcompletion:addinstance
+Capabilities/block/settings:addinstance
+Capabilities/block/settings:myaddinstance
+Capabilities/block/site main menu:addinstance
+Capabilities/block/social activities:addinstance
+Capabilities/block/tag flickr:addinstance
+Capabilities/block/tag youtube:addinstance
+Capabilities/block/tags:addinstance
+Capabilities/block/tags:myaddinstance
+Capabilities/block/template:edit
+Capabilities/block/trouble ticket:submitticket
+Capabilities/booktool/exportimscp:export
+Capabilities/booktool/importhtml:import
+Capabilities/booktool/print:print
+Capabilities/communication/matrix:moderator
+Capabilities/contenttype/h5p:access
+Capabilities/contenttype/h5p:upload
+Capabilities/contenttype/h5p:useeditor
+Capabilities/enrol/category:config
+Capabilities/enrol/category:synchronised
+Capabilities/enrol/cohort:config
+Capabilities/enrol/database:config
+Capabilities/enrol/dynamicrule:config
+Capabilities/enrol/dynamicrule:enrol
+Capabilities/enrol/dynamicrule:unenrol
+Capabilities/enrol/fee:config
+Capabilities/enrol/fee:manage
+Capabilities/enrol/fee:unenrol
+Capabilities/enrol/fee:unenrolself
+Capabilities/enrol/guest:config
+Capabilities/enrol/imsenterprise:config
+Capabilities/enrol/ldap:manage
+Capabilities/enrol/manual:config
+Capabilities/enrol/manual:enrol
+Capabilities/enrol/manual:manage
+Capabilities/enrol/manual:unenrol
+Capabilities/enrol/manual:unenrolself
+Capabilities/enrol/meta:config
+Capabilities/enrol/meta:selectaslinked
+Capabilities/enrol/mnet:config
+Capabilities/enrol/paypal:config
+Capabilities/enrol/paypal:manage
+Capabilities/enrol/paypal:unenrol
+Capabilities/enrol/paypal:unenrolself
+Capabilities/enrol/program:config
+Capabilities/enrol/program:enrol
+Capabilities/enrol/program:manage
+Capabilities/enrol/program:unenrol
+Capabilities/enrol/self:config
+Capabilities/enrol/self:enrolself
+Capabilities/enrol/self:holdkey
+Capabilities/enrol/self:manage
+Capabilities/enrol/self:unenrol
+Capabilities/enrol/self:unenrolself
+Capabilities/factor/capability:cannotpassfactor
+Capabilities/format/page:addpages
+Capabilities/format/page:editpages
+Capabilities/format/page:managepages
+Capabilities/format/page:viewpagesettings
+Capabilities/gradeexport/ods:publish
+Capabilities/gradeexport/ods:view
+Capabilities/gradeexport/txt:publish
+Capabilities/gradeexport/txt:view
+Capabilities/gradeexport/xls:publish
+Capabilities/gradeexport/xls:view
+Capabilities/gradeexport/xml:publish
+Capabilities/gradeexport/xml:view
+Capabilities/gradeimport/csv:view
+Capabilities/gradeimport/direct:view
+Capabilities/gradeimport/xml:publish
+Capabilities/gradeimport/xml:view
+Capabilities/gradereport/grader:view
+Capabilities/gradereport/outcomes:view
+Capabilities/gradereport/overview:view
+Capabilities/gradereport/singleview:view
+Capabilities/gradereport/summary:view
+Capabilities/gradereport/user:view
+Capabilities/message/airnotifier:managedevice
+Capabilities/mod/appointment:addattendees
+Capabilities/mod/appointment:addinstance
+Capabilities/mod/appointment:configurecancellation
+Capabilities/mod/appointment:editsessions
+Capabilities/mod/appointment:managecustomfields
+Capabilities/mod/appointment:overbook
+Capabilities/mod/appointment:removeattendees
+Capabilities/mod/appointment:signup
+Capabilities/mod/appointment:takeattendance
+Capabilities/mod/appointment:view
+Capabilities/mod/appointment:viewattendees
+Capabilities/mod/appointment:viewcancellations
+Capabilities/mod/assign:addinstance
+Capabilities/mod/assign:editothersubmission
+Capabilities/mod/assign:exportownsubmission
+Capabilities/mod/assign:grade
+Capabilities/mod/assign:manageallocations
+Capabilities/mod/assign:managegrades
+Capabilities/mod/assign:manageoverrides
+Capabilities/mod/assign:receivegradernotifications
+Capabilities/mod/assign:releasegrades
+Capabilities/mod/assign:revealidentities
+Capabilities/mod/assign:reviewgrades
+Capabilities/mod/assign:showhiddengrader
+Capabilities/mod/assign:submit
+Capabilities/mod/assign:view
+Capabilities/mod/assign:viewblinddetails
+Capabilities/mod/assign:viewgrades
+Capabilities/mod/assign:viewownsubmissionsummary
+Capabilities/mod/assignment:addinstance
+Capabilities/mod/assignment:exportownsubmission
+Capabilities/mod/assignment:grade
+Capabilities/mod/assignment:submit
+Capabilities/mod/assignment:view
+Capabilities/mod/bigbluebuttonbn:managerecordings
+Capabilities/mod/bigbluebuttonbn:seepresentation
+Capabilities/mod/bigbluebuttonbn:viewallrecordingformats
+Capabilities/mod/book:addinstance
+Capabilities/mod/book:edit
+Capabilities/mod/book:read
+Capabilities/mod/book:viewhiddenchapters
+Capabilities/mod/cado:approve
+Capabilities/mod/cado:compare
+Capabilities/mod/cado:generate
+Capabilities/mod/cado:view
+Capabilities/mod/certificate:manage
+Capabilities/mod/certificate:printteacher
+Capabilities/mod/certificate:view
+Capabilities/mod/chat:addinstance
+Capabilities/mod/chat:chat
+Capabilities/mod/chat:deletelog
+Capabilities/mod/chat:exportparticipatedsession
+Capabilities/mod/chat:exportsession
+Capabilities/mod/chat:readlog
+Capabilities/mod/chat:view
+Capabilities/mod/choice:addinstance
+Capabilities/mod/choice:choose
+Capabilities/mod/choice:deleteresponses
+Capabilities/mod/choice:downloadresponses
+Capabilities/mod/choice:readresponses
+Capabilities/mod/choice:view
+Capabilities/mod/coursecertificate:addinstance
+Capabilities/mod/coursecertificate:receive
+Capabilities/mod/coursecertificate:view
+Capabilities/mod/coursecertificate:viewreport
+Capabilities/mod/coursetracking:canseeindividualdata
+Capabilities/mod/coursetracking:cansetmarkers
+Capabilities/mod/coursetracking:teacherview
+Capabilities/mod/data:addinstance
+Capabilities/mod/data:approve
+Capabilities/mod/data:comment
+Capabilities/mod/data:exportallentries
+Capabilities/mod/data:exportentry
+Capabilities/mod/data:exportownentry
+Capabilities/mod/data:exportuserinfo
+Capabilities/mod/data:managecomments
+Capabilities/mod/data:manageentries
+Capabilities/mod/data:managetemplates
+Capabilities/mod/data:manageuserpresets
+Capabilities/mod/data:rate
+Capabilities/mod/data:view
+Capabilities/mod/data:viewallratings
+Capabilities/mod/data:viewalluserpresets
+Capabilities/mod/data:viewanyrating
+Capabilities/mod/data:viewentry
+Capabilities/mod/data:viewrating
+Capabilities/mod/data:writeentry
+Capabilities/mod/feedback:addinstance
+Capabilities/mod/feedback:complete
+Capabilities/mod/feedback:createprivatetemplate
+Capabilities/mod/feedback:createpublictemplate
+Capabilities/mod/feedback:deletesubmissions
+Capabilities/mod/feedback:deletetemplate
+Capabilities/mod/feedback:edititems
+Capabilities/mod/feedback:mapcourse
+Capabilities/mod/feedback:receivemail
+Capabilities/mod/feedback:view
+Capabilities/mod/feedback:viewanalysepage
+Capabilities/mod/feedback:viewreports
+Capabilities/mod/flax:attempt
+Capabilities/mod/flax:deleteattempt
+Capabilities/mod/flax:viewreport
+Capabilities/mod/folder:addinstance
+Capabilities/mod/folder:managefiles
+Capabilities/mod/folder:view
+Capabilities/mod/forum:addinstance
+Capabilities/mod/forum:addnews
+Capabilities/mod/forum:addquestion
+Capabilities/mod/forum:allowforcesubscribe
+Capabilities/mod/forum:canmailnow
+Capabilities/mod/forum:canoverridecutoff
+Capabilities/mod/forum:canoverridediscussionlock
+Capabilities/mod/forum:canposttomygroups
+Capabilities/mod/forum:cantogglefavourite
+Capabilities/mod/forum:createattachment
+Capabilities/mod/forum:deleteanypost
+Capabilities/mod/forum:deleteownpost
+Capabilities/mod/forum:editanypost
+Capabilities/mod/forum:exportdiscussion
+Capabilities/mod/forum:exportownpost
+Capabilities/mod/forum:exportpost
+Capabilities/mod/forum:managesubscriptions
+Capabilities/mod/forum:movediscussions
+Capabilities/mod/forum:postprivatereply
+Capabilities/mod/forum:postwithoutthrottling
+Capabilities/mod/forum:rate
+Capabilities/mod/forum:readprivatereplies
+Capabilities/mod/forum:replynews
+Capabilities/mod/forum:replypost
+Capabilities/mod/forum:splitdiscussions
+Capabilities/mod/forum:startdiscussion
+Capabilities/mod/forum:viewallratings
+Capabilities/mod/forum:viewanyrating
+Capabilities/mod/forum:viewdiscussion
+Capabilities/mod/forum:viewhiddentimedposts
+Capabilities/mod/forum:viewqandawithoutposting
+Capabilities/mod/forum:viewrating
+Capabilities/mod/forum:viewsubscribers
+Capabilities/mod/glossary:addinstance
+Capabilities/mod/glossary:approve
+Capabilities/mod/glossary:comment
+Capabilities/mod/glossary:export
+Capabilities/mod/glossary:exportentry
+Capabilities/mod/glossary:exportownentry
+Capabilities/mod/glossary:import
+Capabilities/mod/glossary:managecategories
+Capabilities/mod/glossary:managecomments
+Capabilities/mod/glossary:manageentries
+Capabilities/mod/glossary:rate
+Capabilities/mod/glossary:view
+Capabilities/mod/glossary:viewallratings
+Capabilities/mod/glossary:viewanyrating
+Capabilities/mod/glossary:viewrating
+Capabilities/mod/glossary:write
+Capabilities/mod/h5pactivity:addinstance
+Capabilities/mod/h5pactivity:reviewattempts
+Capabilities/mod/h5pactivity:submit
+Capabilities/mod/h5pactivity:view
+Capabilities/mod/hotpot:attempt
+Capabilities/mod/hotpot:deleteattempt
+Capabilities/mod/hotpot:grade
+Capabilities/mod/hotpot:viewreport
+Capabilities/mod/hvp:getcachedassets
+Capabilities/mod/imscp:addinstance
+Capabilities/mod/imscp:view
+Capabilities/mod/label:addinstance
+Capabilities/mod/label:view
+Capabilities/mod/lesson:addinstance
+Capabilities/mod/lesson:edit
+Capabilities/mod/lesson:grade
+Capabilities/mod/lesson:manage
+Capabilities/mod/lesson:manageoverrides
+Capabilities/mod/lesson:view
+Capabilities/mod/lesson:viewreports
+Capabilities/mod/lti:addcoursetool
+Capabilities/mod/lti:addinstance
+Capabilities/mod/lti:addmanualinstance
+Capabilities/mod/lti:addpreconfiguredinstance
+Capabilities/mod/lti:admin
+Capabilities/mod/lti:manage
+Capabilities/mod/lti:requesttooladd
+Capabilities/mod/lti:view
+Capabilities/mod/mediasite:addinstance
+Capabilities/mod/mediasite:overridedefaults
+Capabilities/mod/mediasite:searchforcontent
+Capabilities/mod/mediasite:view
+Capabilities/mod/page:addinstance
+Capabilities/mod/page:view
+Capabilities/mod/pagemenu:manage
+Capabilities/mod/pagemenu:view
+Capabilities/mod/project:create
+Capabilities/mod/questionnaire:view
+Capabilities/mod/quiz:addinstance
+Capabilities/mod/quiz:attempt
+Capabilities/mod/quiz:deleteattempts
+Capabilities/mod/quiz:emailconfirmsubmission
+Capabilities/mod/quiz:emailnotifysubmission
+Capabilities/mod/quiz:grade
+Capabilities/mod/quiz:ignoretimelimits
+Capabilities/mod/quiz:manage
+Capabilities/mod/quiz:manageoverrrides
+Capabilities/mod/quiz:preview
+Capabilities/mod/quiz:reviewmyattempts
+Capabilities/mod/quiz:view
+Capabilities/mod/quiz:viewoverrides
+Capabilities/mod/quiz:viewreports
+Capabilities/mod/resource:addinstance
+Capabilities/mod/resource:view
+Capabilities/mod/scheduler:appoint
+Capabilities/mod/scheduler:attend
+Capabilities/mod/scheduler:canscheduletootherteachers
+Capabilities/mod/scheduler:canseeotherteachersbooking
+Capabilities/mod/scheduler:editallattended
+Capabilities/mod/scheduler:editallgrades
+Capabilities/mod/scheduler:editallnotes
+Capabilities/mod/scheduler:manage
+Capabilities/mod/scheduler:manageallappointments
+Capabilities/mod/scheduler:seeotherstudentsbooking
+Capabilities/mod/scheduler:seeotherstudentsresults
+Capabilities/mod/scheduler:seeoverviewoutsideactivity
+Capabilities/mod/scheduler:viewfullslots
+Capabilities/mod/scheduler:viewslots
+Capabilities/mod/scorm:addinstance
+Capabilities/mod/scorm:deleteownresponses
+Capabilities/mod/scorm:deleteresponses
+Capabilities/mod/scorm:savetrack
+Capabilities/mod/scorm:skipview
+Capabilities/mod/scorm:viewreport
+Capabilities/mod/scorm:viewscores
+Capabilities/mod/subsection:addinstance
+Capabilities/mod/survey:addinstance
+Capabilities/mod/survey:download
+Capabilities/mod/survey:participate
+Capabilities/mod/survey:readresponses
+Capabilities/mod/techproject:changerequs
+Capabilities/mod/techproject:changespecs
+Capabilities/mod/techproject:gradeproject
+Capabilities/mod/techproject:managecriteria
+Capabilities/mod/techproject:viewprojectcontrols
+Capabilities/mod/url:addinstance
+Capabilities/mod/url:view
+Capabilities/mod/wiki:addinstance
+Capabilities/mod/wiki:createpage
+Capabilities/mod/wiki:editcomment
+Capabilities/mod/wiki:editpage
+Capabilities/mod/wiki:manage
+Capabilities/mod/wiki:managecomment
+Capabilities/mod/wiki:managefiles
+Capabilities/mod/wiki:managewiki
+Capabilities/mod/wiki:overridelock
+Capabilities/mod/wiki:participate
+Capabilities/mod/wiki:viewcomment
+Capabilities/mod/wiki:viewpage
+Capabilities/mod/workshop:addinstance
+Capabilities/mod/workshop:allocate
+Capabilities/mod/workshop:editdimensions
+Capabilities/mod/workshop:exportsubmissions
+Capabilities/mod/workshop:ignoredeadlines
+Capabilities/mod/workshop:manage
+Capabilities/mod/workshop:manageexamples
+Capabilities/mod/workshop:overridegrades
+Capabilities/mod/workshop:participate
+Capabilities/mod/workshop:peerassess
+Capabilities/mod/workshop:publishsubmissions
+Capabilities/mod/workshop:submit
+Capabilities/mod/workshop:switchphase
+Capabilities/mod/workshop:view
+Capabilities/mod/workshop:viewallassessments
+Capabilities/mod/workshop:viewallsubmissions
+Capabilities/mod/workshop:viewauthornames
+Capabilities/mod/workshop:viewauthorpublished
+Capabilities/mod/workshop:viewpublishedsubmissions
+Capabilities/mod/workshop:viewreviewernames
+Capabilities/moodle/ai:acceptpolicy
+Capabilities/moodle/ai:fetchanyuserpolicystatus
+Capabilities/moodle/ai:fetchpolicy
+Capabilities/moodle/analytics:listinsights
+Capabilities/moodle/analytics:listowninsights
+Capabilities/moodle/analytics:managemodels
+Capabilities/moodle/backup:anonymise
+Capabilities/moodle/backup:backupactivity
+Capabilities/moodle/backup:backupcourse
+Capabilities/moodle/backup:backupsection
+Capabilities/moodle/backup:backuptargethub
+Capabilities/moodle/backup:backuptargetimport
+Capabilities/moodle/backup:configure
+Capabilities/moodle/backup:downloadfile
+Capabilities/moodle/backup:userinfo
+Capabilities/moodle/badges:awardbadge
+Capabilities/moodle/badges:configurecriteria
+Capabilities/moodle/badges:configuredetails
+Capabilities/moodle/badges:configuremessages
+Capabilities/moodle/badges:createbadge
+Capabilities/moodle/badges:deletebadge
+Capabilities/moodle/badges:earnbadge
+Capabilities/moodle/badges:manageglobalsettings
+Capabilities/moodle/badges:manageownbadges
+Capabilities/moodle/badges:revokebadge
+Capabilities/moodle/badges:viewawarded
+Capabilities/moodle/badges:viewbadges
+Capabilities/moodle/badges:viewotherbadges
+Capabilities/moodle/block:edit
+Capabilities/moodle/block:view
+Capabilities/moodle/blog:associatecourse
+Capabilities/moodle/blog:associatemodule
+Capabilities/moodle/blog:create
+Capabilities/moodle/blog:manageentries
+Capabilities/moodle/blog:manageexternal
+Capabilities/moodle/blog:search
+Capabilities/moodle/blog:view
+Capabilities/moodle/blog:viewdrafts
+Capabilities/moodle/calendar:manageentries
+Capabilities/moodle/calendar:managegroupentries
+Capabilities/moodle/calendar:manageownentries
+Capabilities/moodle/category:create
+Capabilities/moodle/category:delete
+Capabilities/moodle/category:manage
+Capabilities/moodle/category:update
+Capabilities/moodle/category:viewcourselist
+Capabilities/moodle/category:viewhiddencategories
+Capabilities/moodle/category:visibility
+Capabilities/moodle/cohort:assign
+Capabilities/moodle/cohort:configurecustomfields
+Capabilities/moodle/cohort:manage
+Capabilities/moodle/cohort:view
+Capabilities/moodle/comment:delete
+Capabilities/moodle/comment:post
+Capabilities/moodle/comment:view
+Capabilities/moodle/community:add
+Capabilities/moodle/community:download
+Capabilities/moodle/competency:competencygrade
+Capabilities/moodle/competency:competencymanage
+Capabilities/moodle/competency:competencyview
+Capabilities/moodle/competency:coursecompetencyconfigure
+Capabilities/moodle/competency:coursecompetencygradable
+Capabilities/moodle/competency:coursecompetencymanage
+Capabilities/moodle/competency:coursecompetencyview
+Capabilities/moodle/competency:evidencedelete
+Capabilities/moodle/competency:plancomment
+Capabilities/moodle/competency:plancommentown
+Capabilities/moodle/competency:planmanage
+Capabilities/moodle/competency:planmanagedraft
+Capabilities/moodle/competency:planmanageown
+Capabilities/moodle/competency:planmanageowndraft
+Capabilities/moodle/competency:planrequestreview
+Capabilities/moodle/competency:planrequestreviewown
+Capabilities/moodle/competency:planreview
+Capabilities/moodle/competency:planview
+Capabilities/moodle/competency:planviewdraft
+Capabilities/moodle/competency:planviewown
+Capabilities/moodle/competency:planviewowndraft
+Capabilities/moodle/competency:templatemanage
+Capabilities/moodle/competency:templateview
+Capabilities/moodle/competency:usercompetencycomment
+Capabilities/moodle/competency:usercompetencycommentown
+Capabilities/moodle/competency:usercompetencyrequestreview
+Capabilities/moodle/competency:usercompetencyrequestreviewown
+Capabilities/moodle/competency:usercompetencyreview
+Capabilities/moodle/competency:usercompetencyview
+Capabilities/moodle/competency:userevidencemanage
+Capabilities/moodle/competency:userevidencemanageown
+Capabilities/moodle/competency:userevidenceview
+Capabilities/moodle/contentbank:access
+Capabilities/moodle/contentbank:deleteanycontent
+Capabilities/moodle/contentbank:deleteowncontent
+Capabilities/moodle/contentbank:downloadcontent
+Capabilities/moodle/contentbank:manageanycontent
+Capabilities/moodle/contentbank:manageowncontent
+Capabilities/moodle/contentbank:upload
+Capabilities/moodle/contentbank:useeditor
+Capabilities/moodle/contentbank:viewunlistedcontent
+Capabilities/moodle/course:activityvisibility
+Capabilities/moodle/course:bulkmessaging
+Capabilities/moodle/course:changecategory
+Capabilities/moodle/course:changefullname
+Capabilities/moodle/course:changeidnumber
+Capabilities/moodle/course:changelockedcustomfields
+Capabilities/moodle/course:changeshortname
+Capabilities/moodle/course:changesummary
+Capabilities/moodle/course:configurecoursecommunication
+Capabilities/moodle/course:configurecustomfields
+Capabilities/moodle/course:configuredownloadcontent
+Capabilities/moodle/course:create
+Capabilities/moodle/course:creategroupconversations
+Capabilities/moodle/course:delete
+Capabilities/moodle/course:downloadcoursecontent
+Capabilities/moodle/course:editcoursewelcomemessage
+Capabilities/moodle/course:enrolconfig
+Capabilities/moodle/course:enrolreview
+Capabilities/moodle/course:forcelanguage
+Capabilities/moodle/course:ignoreavailabilityrestrictions
+Capabilities/moodle/course:ignorefilesizelimits
+Capabilities/moodle/course:isincompletionreports
+Capabilities/moodle/course:manageactivities
+Capabilities/moodle/course:managefiles
+Capabilities/moodle/course:managegrades
+Capabilities/moodle/course:managegroups
+Capabilities/moodle/course:managemetacourse
+Capabilities/moodle/course:managescales
+Capabilities/moodle/course:markcomplete
+Capabilities/moodle/course:movesections
+Capabilities/moodle/course:overridecompletion
+Capabilities/moodle/course:publish
+Capabilities/moodle/course:recommendactivity
+Capabilities/moodle/course:renameroles
+Capabilities/moodle/course:request
+Capabilities/moodle/course:reset
+Capabilities/moodle/course:reviewotherusers
+Capabilities/moodle/course:sectionvisibility
+Capabilities/moodle/course:setcurrentsection
+Capabilities/moodle/course:setforcedlanguage
+Capabilities/moodle/course:tag
+Capabilities/moodle/course:togglecompletion
+Capabilities/moodle/course:update
+Capabilities/moodle/course:useremail
+Capabilities/moodle/course:view
+Capabilities/moodle/course:viewhiddenactivities
+Capabilities/moodle/course:viewhiddencourses
+Capabilities/moodle/course:viewhiddensections
+Capabilities/moodle/course:viewhiddenuserfields
+Capabilities/moodle/course:viewparticipants
+Capabilities/moodle/course:viewscales
+Capabilities/moodle/course:viewsuspendedusers
+Capabilities/moodle/course:visibility
+Capabilities/moodle/filter:manage
+Capabilities/moodle/grade:edit
+Capabilities/moodle/grade:export
+Capabilities/moodle/grade:hide
+Capabilities/moodle/grade:import
+Capabilities/moodle/grade:lock
+Capabilities/moodle/grade:manage
+Capabilities/moodle/grade:managegradingforms
+Capabilities/moodle/grade:manageletters
+Capabilities/moodle/grade:manageoutcomes
+Capabilities/moodle/grade:managesharedforms
+Capabilities/moodle/grade:override
+Capabilities/moodle/grade:sharegradingforms
+Capabilities/moodle/grade:unlock
+Capabilities/moodle/grade:view
+Capabilities/moodle/grade:viewall
+Capabilities/moodle/grade:viewhidden
+Capabilities/moodle/h5p:deploy
+Capabilities/moodle/h5p:setdisplayoptions
+Capabilities/moodle/h5p:updatelibraries
+Capabilities/moodle/legacy:admin
+Capabilities/moodle/legacy:coursecreator
+Capabilities/moodle/legacy:editingteacher
+Capabilities/moodle/legacy:guest
+Capabilities/moodle/legacy:student
+Capabilities/moodle/legacy:teacher
+Capabilities/moodle/moodlenet:shareactivity
+Capabilities/moodle/moodlenet:sharecourse
+Capabilities/moodle/my:configsyspages
+Capabilities/moodle/my:manageblocks
+Capabilities/moodle/notes:manage
+Capabilities/moodle/notes:view
+Capabilities/moodle/portfolio:export
+Capabilities/moodle/question:add
+Capabilities/moodle/question:config
+Capabilities/moodle/question:editall
+Capabilities/moodle/question:editmine
+Capabilities/moodle/question:flag
+Capabilities/moodle/question:managecategory
+Capabilities/moodle/question:moveall
+Capabilities/moodle/question:movemine
+Capabilities/moodle/question:tagall
+Capabilities/moodle/question:tagmine
+Capabilities/moodle/question:useall
+Capabilities/moodle/question:usemine
+Capabilities/moodle/question:viewall
+Capabilities/moodle/question:viewmine
+Capabilities/moodle/rating:rate
+Capabilities/moodle/rating:view
+Capabilities/moodle/rating:viewall
+Capabilities/moodle/rating:viewany
+Capabilities/moodle/reportbuilder:edit
+Capabilities/moodle/reportbuilder:editall
+Capabilities/moodle/reportbuilder:view
+Capabilities/moodle/reportbuilder:viewall
+Capabilities/moodle/restore:configure
+Capabilities/moodle/restore:createuser
+Capabilities/moodle/restore:restoreactivity
+Capabilities/moodle/restore:restorecourse
+Capabilities/moodle/restore:restoresection
+Capabilities/moodle/restore:restoretargethub
+Capabilities/moodle/restore:restoretargetimport
+Capabilities/moodle/restore:rolldates
+Capabilities/moodle/restore:uploadfile
+Capabilities/moodle/restore:userinfo
+Capabilities/moodle/restore:viewautomatedfilearea
+Capabilities/moodle/role:assign
+Capabilities/moodle/role:manage
+Capabilities/moodle/role:override
+Capabilities/moodle/role:review
+Capabilities/moodle/role:safeoverride
+Capabilities/moodle/role:switchroles
+Capabilities/moodle/role:viewhiddenassigns
+Capabilities/moodle/site:accessallgroups
+Capabilities/moodle/site:approvecourse
+Capabilities/moodle/site:backup
+Capabilities/moodle/site:config
+Capabilities/moodle/site:configview
+Capabilities/moodle/site:deleteanymessage
+Capabilities/moodle/site:deleteownmessage
+Capabilities/moodle/site:doclinks
+Capabilities/moodle/site:forcelanguage
+Capabilities/moodle/site:import
+Capabilities/moodle/site:langeditlocal
+Capabilities/moodle/site:langeditmaster
+Capabilities/moodle/site:maintenanceaccess
+Capabilities/moodle/site:manageallmessaging
+Capabilities/moodle/site:manageblocks
+Capabilities/moodle/site:managecontextlocks
+Capabilities/moodle/site:messageanyuser
+Capabilities/moodle/site:mnetlogintoremote
+Capabilities/moodle/site:readallmessages
+Capabilities/moodle/site:restore
+Capabilities/moodle/site:sendmessage
+Capabilities/moodle/site:trustcontent
+Capabilities/moodle/site:uploadusers
+Capabilities/moodle/site:usewebservices
+Capabilities/moodle/site:viewanonymousevents
+Capabilities/moodle/site:viewfullnames
+Capabilities/moodle/site:viewparticipants
+Capabilities/moodle/site:viewreports
+Capabilities/moodle/site:viewuseridentity
+Capabilities/moodle/tag:create
+Capabilities/moodle/tag:edit
+Capabilities/moodle/tag:editblocks
+Capabilities/moodle/tag:flag
+Capabilities/moodle/tag:manage
+Capabilities/moodle/user:changeownpassword
+Capabilities/moodle/user:create
+Capabilities/moodle/user:delete
+Capabilities/moodle/user:editmessageprofile
+Capabilities/moodle/user:editownmessageprofile
+Capabilities/moodle/user:editownprofile
+Capabilities/moodle/user:editprofile
+Capabilities/moodle/user:loginas
+Capabilities/moodle/user:manageblocks
+Capabilities/moodle/user:manageownblocks
+Capabilities/moodle/user:manageownfiles
+Capabilities/moodle/user:managesyspages
+Capabilities/moodle/user:readuserblogs
+Capabilities/moodle/user:readuserposts
+Capabilities/moodle/user:update
+Capabilities/moodle/user:viewalldetails
+Capabilities/moodle/user:viewdetails
+Capabilities/moodle/user:viewhiddendetails
+Capabilities/moodle/user:viewlastip
+Capabilities/moodle/user:viewprofilepictures
+Capabilities/moodle/user:viewuseractivitiesreport
+Capabilities/moodle/user:viewusergrades
+Capabilities/moodle/webservice:createmobiletoken
+Capabilities/moodle/webservice:createtoken
+Capabilities/quiz/grading:viewidnumber
+Capabilities/quiz/grading:viewstudentnames
+Capabilities/quizaccess/seb:bypassseb
+Capabilities/quizaccess/seb:manage filemanager sebconfigfile
+Capabilities/quizaccess/seb:manage seb activateurlfiltering
+Capabilities/quizaccess/seb:manage seb allowedbrowserexamkeys
+Capabilities/quizaccess/seb:manage seb allowreloadinexam
+Capabilities/quizaccess/seb:manage seb allowspellchecking
+Capabilities/quizaccess/seb:manage seb allowuserquitseb
+Capabilities/quizaccess/seb:manage seb configuremanually
+Capabilities/quizaccess/seb:manage seb enableaudiocontrol
+Capabilities/quizaccess/seb:manage seb expressionsallowed
+Capabilities/quizaccess/seb:manage seb expressionsblocked
+Capabilities/quizaccess/seb:manage seb filterembeddedcontent
+Capabilities/quizaccess/seb:manage seb linkquitseb
+Capabilities/quizaccess/seb:manage seb muteonstartup
+Capabilities/quizaccess/seb:manage seb quitpassword
+Capabilities/quizaccess/seb:manage seb regexallowed
+Capabilities/quizaccess/seb:manage seb regexblocked
+Capabilities/quizaccess/seb:manage seb requiresafeexambrowser
+Capabilities/quizaccess/seb:manage seb showkeyboardlayout
+Capabilities/quizaccess/seb:manage seb showreloadbutton
+Capabilities/quizaccess/seb:manage seb showsebdownloadlink
+Capabilities/quizaccess/seb:manage seb showsebtaskbar
+Capabilities/quizaccess/seb:manage seb showtime
+Capabilities/quizaccess/seb:manage seb showwificontrol
+Capabilities/quizaccess/seb:manage seb templateid
+Capabilities/quizaccess/seb:manage seb userconfirmquit
+Capabilities/quizaccess/seb:manage seb usesebclientconfig
+Capabilities/quizaccess/seb:managetemplates
+Capabilities/report/completion:view
+Capabilities/report/courseoverview:view
+Capabilities/report/log:view
+Capabilities/report/log:viewtoday
+Capabilities/report/loglive:view
+Capabilities/report/outline:view
+Capabilities/report/participation:view
+Capabilities/report/progress:view
+Capabilities/report/questioninstances:view
+Capabilities/report/security:view
+Capabilities/report/stats:view
+Capabilities/report/status:view
+Capabilities/report/unittest:view
+Capabilities/repository/areafiles:view
+Capabilities/repository/boxnet:view
+Capabilities/repository/contentbank:accesscoursecategorycontent
+Capabilities/repository/contentbank:accesscoursecontent
+Capabilities/repository/contentbank:accessgeneralcontent
+Capabilities/repository/contentbank:view
+Capabilities/repository/coursefiles:view
+Capabilities/repository/dropbox:view
+Capabilities/repository/equella:view
+Capabilities/repository/filesystem:view
+Capabilities/repository/flickr:view
+Capabilities/repository/flickr public:view
+Capabilities/repository/googledocs:view
+Capabilities/repository/local:view
+Capabilities/repository/merlot:view
+Capabilities/repository/nextcloud:view
+Capabilities/repository/onedrive:view
+Capabilities/repository/picasa:view
+Capabilities/repository/recent:view
+Capabilities/repository/s3:view
+Capabilities/repository/skydrive:view
+Capabilities/repository/upload:view
+Capabilities/repository/url:view
+Capabilities/repository/user:view
+Capabilities/repository/webdav:view
+Capabilities/repository/wikimedia:view
+Capabilities/repository/youtube:view
+Capabilities/tiny/h5p:addembed
+Capabilities/tiny/premium:accesspremium
+Capabilities/tiny/recordrtc:recordaudio
+Capabilities/tiny/recordrtc:recordscreen
+Capabilities/tiny/recordrtc:recordvideo
+Capabilities/tool/catalogue:config
+Capabilities/tool/certificate:image
+Capabilities/tool/certificate:imageforalltenants
+Capabilities/tool/certificate:issue
+Capabilities/tool/certificate:issueforalltenants
+Capabilities/tool/certificate:manage
+Capabilities/tool/certificate:manageforalltenants
+Capabilities/tool/certificate:verify
+Capabilities/tool/certificate:verifyforalltenants
+Capabilities/tool/certificate:viewallcertificates
+Capabilities/tool/certification:allocateuser
+Capabilities/tool/certification:configurecustomfields
+Capabilities/tool/certification:edit
+Capabilities/tool/customlang:edit
+Capabilities/tool/customlang:export
+Capabilities/tool/customlang:view
+Capabilities/tool/custompage:edit
+Capabilities/tool/custompage:editall
+Capabilities/tool/custompage:skipblockvalidation
+Capabilities/tool/custompage:viewall
+Capabilities/tool/dataprivacy:downloadallrequests
+Capabilities/tool/dataprivacy:downloadownrequest
+Capabilities/tool/dataprivacy:makedatadeletionrequestsforchildren
+Capabilities/tool/dataprivacy:makedatarequestsforchildren
+Capabilities/tool/dataprivacy:managedataregistry
+Capabilities/tool/dataprivacy:managedatarequests
+Capabilities/tool/dataprivacy:requestdelete
+Capabilities/tool/dataprivacy:requestdeleteforotheruser
+Capabilities/tool/datastore:uploadcoursecompletion
+Capabilities/tool/dynamicrule:manage
+Capabilities/tool/lpmigrate:frameworksmigrate
+Capabilities/tool/organisation:assigninlocked
+Capabilities/tool/organisation:assignjobs
+Capabilities/tool/organisation:assignmanuallymgr
+Capabilities/tool/organisation:managedepartments
+Capabilities/tool/organisation:managepositions
+Capabilities/tool/policy:accept
+Capabilities/tool/policy:acceptbehalf
+Capabilities/tool/policy:managedocs
+Capabilities/tool/policy:viewacceptances
+Capabilities/tool/program:allocateuser
+Capabilities/tool/program:configurecustomfields
+Capabilities/tool/program:coursereset
+Capabilities/tool/program:edit
+Capabilities/tool/rbreport:addinstance
+Capabilities/tool/rbreport:myaddinstance
+Capabilities/tool/reportbuilder:edit
+Capabilities/tool/reportbuilder:read
+Capabilities/tool/tenant:allocate
+Capabilities/tool/tenant:authconfig
+Capabilities/tool/tenant:browseusers
+Capabilities/tool/tenant:manage
+Capabilities/tool/tenant:managedashboard
+Capabilities/tool/tenant:managetheme
+Capabilities/tool/tenant:managethemeadvanced
+Capabilities/tool/tenant:manageusers
+Capabilities/tool/tenant:mobileconfig
+Capabilities/tool/unittest:execute
+Capabilities/tool/uploadcourse:use
+Capabilities/tool/usertours:managetours
+Capabilities/tool/wp:manageexportimport
+Capabilities/tool/wp:useexportimport
+Capabilities/webservice/amf:use
+Capabilities/webservice/rest:use
+Capabilities/webservice/soap:use
+Capabilities/webservice/xmlrpc:use
+Capabilitites/mod/tracker:canbecced
+Capabilitites/mod/tracker:comment
+Capabilitites/mod/tracker:develop
+Capabilitites/mod/tracker:manage
+Capabilitites/mod/tracker:managewatches
+Capabilitites/mod/tracker:report
+Capabilitites/mod/tracker:resolve
+Capabilitites/mod/tracker:seeissues
+Capabilitites/mod/tracker:viewallissues
+Capability explorer
+Capability report
+Case for Moodle
+Catalogue
+Category
+Category aggregation
+Category enrolments
+Certificate FAQ
+Certificate course activity
+Certificate customizing
+Certificate element plugins
+Certificate images
+Certificate issuing
+Certificate module
+Certificate reports
+Certificate templates
+Certificate verification
+Certificates
+Certificates settings
+Certification manager role
+Certifications
+Certifications custom fields
+Change your front page
+Chat
+Chat Console Block
+Chat FAQ
+Chat activity
+Chat admin settings
+Chat configuration
+Chat module
+Chat module FAQ
+Chat permissions
+Chat sessions
+Chat settings
+Chats
+Check permissions
+Check system permissions
+Checkbox
+Checklist
+Checklist module
+Checklist quick guide
+Chemistry
+Chemistry/Biochemistry
+Chemistry notation using mhchem
+Choice
+Choice FAQ
+Choice Results
+Choice activity
+Choice module
+Choice module FAQ
+Choice permissions
+Choice settings
+Choices
+Classic theme
+Cleanup
+Cloud Poodll Assignment Feedback
+Cloud Poodll Assignment Submission
+Cloud Poodll Recording Question
+Cloud Poodll for Atto
+Cloud Poodll for TinyMCE
+Cloze
+Cloze editor
+Cloze editor for Atto
+Cloze editor for TinyMCE
+Cloze editor module
+Cloze question developer docs
+Cloze question type
+Cluster
+Clusters
+CodeRunner question type
+Code Syntax Highlighting
+Code highlighter filter
+Code syntax highlighting
+Coding
+Coding/Working with the Community
+Cohort
+Cohort enrolment
+Cohort external database
+Cohort sync
+Cohorts
+Cohorts FAQ
+Cohorts enrolment
+CollaboraActivityModule
+Collabora Activity Module
+Collapsed Topics course format
+Collapsed Weeks course format
+Combined question type
+Comments
+Comments FAQ
+Comments block
+Committee Manager module
+Common course editing icons
+Common filter settings
+Common module settings
+Communication
+Community block
+Community credits
+Community finder
+Community finder block
+Community hub
+Community hub site administration
+Community hubs
+Competencies
+Competencies FAQ
+Competency Based Education
+Competency based education
+Competency breakdown report
+Competency frameworks
+Competency reviewer
+Compiling PHP from source
+Complete Install Packages for Mac OS X
+Complete install packages
+Complete install packages for Windows
+Completion
+Completion Progress block
+Completion tracking
+Concept map question type
+Conditional activities
+Conditional activities FAQ
+Conditional activities settings
+Conditional user fields
+Config changes report
+Configurable reports
+Configuration file
+Configuring and using the Tinymath Editor
+Configuring the Router
+Constructionism
+Constructivism
+Content Pages
+Content bank
+Content bank repository
+Content translation plugin set
+Context
+Context freezing
+Contrib
+Contribute
+Contributed code
+Contributed code FAQ
+Contributed code guidelines
+Contributing a translation
+Convert URLS into links
+Convert URLs into links
+Convert URLs into links filter
+Converting files to UTF-8
+Cookie Sessions
+Correct writing question type
+Count user block
+Course
+Course/Site Description
+Course/Site Description block
+Course/site description block
+Course/site filter config
+Course/site summary block
+CourseFormats
+Course Archiving
+Course Categories
+Course FAQ
+Course Management block
+Course Menu block
+Course Publishing block (publishflow)
+Course Standard Tags
+Course administration menu
+Course appearance
+Course backup
+Course categories
+Course certificate activity
+Course completion
+Course completion FAQ
+Course completion report
+Course completion settings
+Course completion status block
+Course completion tracking
+Course completion tracking settings
+Course contacts
+Course contents block
+Course copy
+Course cover
+Course creator
+Course creator role
+Course custom fields
+Course default settings
+Course enrolment
+Course files
+Course formats
+Course homepage
+Course index
+Course level ratings
+Course list
+Course list block
+Course list viewer role
+Course meta link
+Course meta link enrolment
+Course overview
+Course overview (legacy)
+Course overview block
+Course overview block (old)
+Course overview report
+Course overview reports
+Course rate block
+Course relative dates
+Course reports
+Course request
+Course requester role
+Course reset
+Course restore
+Course search
+Course sections
+Course settings
+Course sharing
+Course tagger
+Courses
+Courses (administrator)
+Courses block
+Courses block configuration
+Courses block settings
+Courses pending approval
+Coursework module
+Create a course
+Create a user
+Create custom roles
+Create data request
+Create group
+Create grouping
+Create user key
+Create your own course
+Creating Moodle-app-friendly courses
+Creating Moodle Mobile friendly courses
+Creating Moodle Mobile friendly sites
+Creating SCORM Content
+Creating a book
+Creating a chat
+Creating a choice
+Creating a course
+Creating a database
+Creating a forum
+Creating a glossary
+Creating a hotpot
+Creating a lesson
+Creating a new Face-to-face session
+Creating a pcast
+Creating a quiz
+Creating an assignment
+Creating custom roles
+Creating mobile-friendly courses
+Creating mod/teletask/mod
+CreditEnrolment
+Credit Score
+Credits
+CreditsTranslators
+Creole format
+Criteria reference block
+Cron
+Cron on 1and1 shared servers
+Cron with MAC OS X
+Cron with UNIX
+Cron with Unix or Linux
+Cron with Windows OS
+Cron with web hosting services
+Curriculum theory
+Cursive
+Custom Navigation
+Custom SQL queries report
+Custom certificate module
+Custom header and footer
+Custom link
+Custom menu items
+Custom pages
+Custom report settings
+Custom reports
+Custom roles
+Customise login instructions
+Customising appearance
+Customlabel module (Course elements)
+DDL functions
+DML functions
+DNS
+DPO
+Daily course format
+Dark mode
+Dash
+Dashboard
+Dashboard Block
+Dashboard Block Global Settings
+Dashboard Configuration: Configuring summarizers
+Dashboard Configuration: Exporting/Importing Configuration
+Dashboard Configuration: Plotting geographic information
+Dashboard Configuration: Raw data (litteral) rendering
+Dashboard Configuration: Rendering channels
+Dashboard Configuration: Rendering location
+Dashboard Configuration: Special Features on Columns for Output
+Dashboard Configuration: Writing Query
+Dashboard Configuraton: Plotting geographic information
+Dashboard and My courses
+Data Protection Officer
+Data Protection Officer role
+Data formats
+Data privacy
+Data privacy plugin
+Database
+Database FAQ
+Database Schemas
+Database activity
+Database activity FAQ
+Database activity admin settings
+Database activity import
+Database activity list template
+Database activity module
+Database activity module FAQ
+Database activity module settings
+Database activity settings
+Database auto-linking
+Database auto-linking filter
+Database export
+Database fields
+Database module
+Database module FAQ
+Database module settings
+Database permissions
+Database presets
+Database reserved words
+Database settings
+Database structure
+Database templates
+Database transfer
+Databases
+Dataform 2.6 release notes
+Dataform 2.7 release notes
+Dataform 2.8 release notes
+Dataform Access
+Dataform Activity administration
+Dataform Activity navigation
+Dataform Applications
+Dataform CSS JS
+Dataform Entries
+Dataform FAQ
+Dataform Fields
+Dataform Filters
+Dataform Grading
+Dataform Import Export
+Dataform Manage Access
+Dataform Manage CSS
+Dataform Manage Fields
+Dataform Manage Filters
+Dataform Manage Javascript
+Dataform Manage Notifications
+Dataform Manage Presets
+Dataform Manage Views
+Dataform Notifications
+Dataform Overview
+Dataform Photo Galleries
+Dataform Plugins
+Dataform Rules
+Dataform Site settings
+Dataform System events
+Dataform Tests
+Dataform Tools
+Dataform Views
+Dataform Views Aligned
+Dataform Workflow
+Dataform building
+Dataform capabilities
+Dataform entry access block
+Dataform field access block
+Dataform installation
+Dataform module
+Dataform notification block
+Dataform presets
+Dataform releases
+Dataform search sort
+Dataform settings
+Dataform setup
+Dataform view access block
+Dataform view block
+Dataform view module
+Dataformfield checkbox
+Dataformfield commentmdl
+Dataformfield duration
+Dataformfield entryactions
+Dataformfield entryauthor
+Dataformfield entrygroup
+Dataformfield entrystate
+Dataformfield entrytime
+Dataformfield file
+Dataformfield number
+Dataformfield picture
+Dataformfield radiobutton
+Dataformfield ratingmdl
+Dataformfield select
+Dataformfield selectmulti
+Dataformfield text
+Dataformfield textarea
+Dataformfield time
+Dataformfield url
+Dataformview Aligned
+Dataformview CSV
+Dataformview Grid
+Dataformview Interval
+Dataformview PDF
+Dataformview RSS
+Dataformview Tabular
+Dataformview chart
+Datalynx CSV view
+Datalynx Calculations
+Datalynx Fields
+Datalynx Filter, Search and Sort
+Datalynx Grid view
+Datalynx JavaScript, CSS
+Datalynx Notifications
+Datalynx PDF view
+Datalynx Statistics
+Datalynx Tabular view
+Datalynx Tags
+Datalynx View settings
+Datalynx Views
+Datalynx create
+Datalynx global settings
+Datalynx installation
+Datalynx module
+Datalynx permissions
+Datalynx settings
+Days course format
+Debugging
+Decimal separator
+Decision FAQ
+Define roles
+Deft
+Deft response
+Delete User by Maillist
+Demo teacher role
+Description question type
+Designer
+Detailed responses report plugin
+Developer
+Developer documentation
+Developer meetings
+Developer tools
+Developing plugins for Moodle Workplace
+Development
+Development data generator
+Developmnet:MNET 2.0
+Dialogue
+Dialogue module
+Diary
+Differentiator local plugin
+Directory
+Display H5P filter
+Display emoticons as images
+Display emoticons as images filter
+DocRank
+Document converter
+Document converters
+Documentation credits
+Documentation for Administrators
+Documentation for Teachers
+Documentation philosophy
+Documentation team
+Download course content
+Download courses
+Download users by role
+DragMath equation editor
+Drag and drop into text
+Drag and drop into text question type
+Drag and drop marker question type
+Drag and drop markers question type
+Drag and drop matching question type
+Drag and drop onto image question type
+Dragmath
+Dropbox
+Dropbox repository
+Dynamic rules
+Dynamic rules manager role
+Dynamo
+E-Mail flag for users
+E-assessment quick guide
+E-examination quick guide
+E-portfolio
+EJSApp
+EQUELLA repository
+Earth theme
+Eclipse
+Edit categories and items
+Edit dates report
+Edit grade calculation
+Edit grade categories and items
+Edit grade category
+Edit grade item
+Edit page order (Lesson)
+Edit profile
+Edit roles by capability
+Editable Content HTML Block
+Editing Questionnaire questions
+Editing a glossary
+Editing a quiz
+Editing categories
+Editing question page
+Editing text
+Effective quiz practices
+Elasticsearch
+Electron pushing / curved question type
+Elegance theme
+Elgg
+Eloy Lafuente (stronk7)
+Email-based self-registration
+Email-based self registration
+Email protection
+Email protection filter
+Email settings
+Email setup gmail
+Embedded Answers (Cloze) question type
+Embedded Answers (Cloze) with Regexp question type
+Embedded file repository
+Embedded files repository
+Embedding content
+Emoticon images
+Enable course sign up
+Enable guest access
+Enable mobile web services
+Enable sign up
+Enabling RSS feeds
+English Central
+Enrolled users
+Enrollment
+Enrollment FAQ
+Enrollments
+Enrolment
+Enrolment/OSCommerce
+Enrolment FAQ
+Enrolment key
+Enrolment methods
+Enrolment on payment
+Enrolment plugins
+Enrolments
+Environment
+Environment - PHP extension sodium
+Environment - max input vars
+Equation editor
+Equella
+Error FAQ
+Error messages
+Errors
+Errors FAQ
+Essay (auto-grade) question type
+Essay question type
+Essay question type (ato-grade)
+Essential theme tips
+Event list report
+Event monitoring
+Event reminders
+Events/mod/dataform/Entry created
+Events/mod/dataform/Entry deleted
+Events/mod/dataform/Entry updated
+Events and Signup Plugins
+Events list
+Events list report
+Evolve-D theme
+Exabis competencies block
+Exabis e-portfolio block
+Exabis games activity
+Experimental
+Experimental settings
+Export
+Export questions
+External Search block
+External blogs
+External database
+External database authentication
+External database enrolment
+External tool
+External tool FAQ
+External tool settings
+FAQ
+FAQs
+Face-to-face FAQ
+Face-to-face module
+Face-to-face walk through
+Faces block
+Fancybox gallery
+Favicon
+Features
+Features tour
+Feedback
+Feedback FAQ
+Feedback activity
+Feedback activity admin settings
+Feedback block
+Feedback module
+Feedback module FAQ
+Feedback settings
+Feedback template creator
+Feedback templates
+File
+File FAQ
+File admin settings
+File bank
+File download
+File download portfolio
+File handling
+File manager block
+File module settings
+File picker
+File picker FAQ
+File resource
+File resource FAQ
+File resource settings
+File system repository
+File system repository FAQ
+File system repository configuration
+File types
+File upload size
+Files
+Filter
+Filter settings
+Filters
+Filters/rtmp
+Filters FAQ
+Filters used on the Moodle.org forums
+Finding and Selecting A Web Host
+FirstClass authentication
+Flashcard
+Flashcard module
+Flashcard module: By Card Summary
+Flashcard module: By User Summary
+Flashcard module: Capabilities
+Flashcard module: Configuration Parameters
+Flashcard module: Edit Screen
+Flashcard module: Freeplay Screen
+Flashcard module: Leitner Choose A Deck
+Flashcard module: Leitner Use A Deck
+Flat file
+Flax module
+Flexible sections course format
+Flickr
+Flickr.com portfolio
+Flickr Public Configuration
+Flickr block
+Flickr configuration
+Flickr public repository
+Flickr public repository configuration
+Flickr repository
+Flickr repository configuration
+Folder
+Folder FAQ
+Folder admin settings
+Folder module settings
+Folder resource
+Folder resource FAQ
+Folder resource settings
+FontAwesome filter
+Fora
+Formal Languages Block
+Formatting options
+Formatting text
+Formulas question tutorial
+Formulas question type
+Forum
+ForumNG
+Forum Block
+Forum FAQ
+Forum Keyword report
+Forum Subscription
+Forum activity
+Forum admin settings
+Forum configuration
+Forum discussion subscription plugin
+Forum moderator role
+Forum module
+Forum module FAQ
+Forum permissions
+Forum poster role
+Forum posting
+Forum rating
+Forum ratings
+Forum settings
+Forum subscription
+Forums
+FreeBSD Installing
+Freehand drawing question type
+Front Page
+Front Page FAQ
+Front Page settings
+Front page
+Front page FAQ
+Front page settings
+Front page settings block
+Full report of recent activity
+GDPR
+GDPR FAQ
+GDPR for administrators
+GIFT
+GIFT format
+GIFT guessit format
+GIT
+GNU General Public License
+GSB set
+GSOC
+Gallery owner role
+Game FAQ
+Game module
+Game module configure
+Game module demo
+Game module developers
+Game module howtohelp
+Game module install
+Game module public
+Game module sites
+Gamification
+Gapfill question type
+General backup defaults
+General grade settings
+GeoGebra
+GeoGebra filter
+Getting started
+Getting started for teachers
+Gift with medias format
+Git
+Git for Administrators
+Git for Mac
+Git for OS X
+Global search
+Global search block
+Glossaries
+Glossary
+Glossary FAQ
+Glossary activity
+Glossary admin settings
+Glossary auto-linking
+Glossary auto-linking filter
+Glossary configuration
+Glossary export to quiz
+Glossary module
+Glossary module FAQ
+Glossary permissions
+Glossary settings
+Go1 quick guide
+Google Apps Integration
+Google Docs
+Google Docs portfolio
+Google Docs repository
+Google Drive converter
+Google Drive portfolio
+Google Drive repository
+Google OAuth2 Setup
+Google OAuth 2.0 setup
+Google authentication
+Google gadgets
+Google search of moodle.org
+Grade aggregation
+Grade calculations
+Grade categories
+Grade category settings
+Grade editing
+Grade export
+Grade hiding
+Grade history
+Grade import
+Grade item settings
+Grade items
+Grade letters
+Grade locking
+Grade permissions
+Grade points
+Grade preferences
+Grade settings
+Grade summary report
+Grade viewer
+Grade viewer role
+Gradebook
+Gradebook FAQ
+Gradebook calculation changes
+Gradebook calculations changes
+Gradebook course settings
+Gradebook report settings
+Gradebook uses
+Gradebookplus
+Grader report
+Grader report LAE
+Grader report preferences
+Grader report settings
+Grades
+Grades FAQ
+Grades Sorter
+Grades development
+Grades min max
+Grades need regrading error
+Grading Quiz
+Grading forms manager
+Grading forms publisher
+Grading guide
+Grading quick guide
+Graphite Theme
+Gravatars
+Grid course format
+Group Choice
+Group choice activity
+Group choice quick guide
+Group selection module
+Group self-selection module
+Grouping users
+Groupings
+Groupings FAQ
+Groups
+Groups FAQ
+Groups and cohorts
+Groups course settings
+Groups overview
+Guess it question type
+Guest
+Guest access
+Guest role
+Guide for new administrators
+Guidelines for Contributors
+H5P
+H5P FAQ
+H5P Speak the Words
+H5P activity
+H5P content types format
+H5P essay
+H5P migration tool
+HTML
+HTML block
+HTML editor
+HTML editor FAQ
+HTML entities
+HTML in Moodle
+HTML per role block
+HTML settings
+HTML table format
+HTMLentities
+HTTP
+HTTPS
+HTTPS conversion tool
+HTTP security
+Hacked site recovery
+Hacking the Moodle 2.0 database transfer script to convert a Moodle 1.9 site
+Header and footer
+Health center
+Heatmap block
+Help
+Help on writing text
+Help translate Moodle
+History
+Home
+Home servers and the internet
+Hosting for moodle admins
+Hosting for server admins
+Hosting without service
+HotPot module for Moodle 2.0
+Hot Potatoes
+Hot Question
+Hotpot
+Hotpot configuration
+Hotpot module
+Hotpot module FAQ
+Hotpot reports
+Hotpot settings
+How Moodle outputs HTML
+How can we show our students only the wrong answers
+How to add custom fonts in a theme
+How to add steps to reproduce to a bug report
+How to apply a patch
+How to check your database for corruption
+How to create and enable a web service
+How to enable web services for an external system
+How to enable web services for ordinary users
+How to fix just one bug, without upgrading
+How to fix just one bug without upgrading
+How to get a security key
+How to let teachers share questions between courses
+How to minimize the question bank when doing backup/restore
+How to prepare a Word file for import into a Book
+How to rebuild context paths
+How to upgrade
+How to write a good bug report
+How to write a question type plugin
+Hub FAQ
+Hub administration
+Hub registration
+ICON activatecontent
+ICON filter activatecontent
+IIS
+ILP Block Examples
+IMAP authentication
+IMS
+IMS CC
+IMS CP
+IMS Common Cartridge import
+IMS Common Cartridge import and export
+IMS Enterprise
+IMS Learning Design
+IMS content package
+IMS content package FAQ
+IMS content package admin settings
+IMS content package module settings
+IMS content package settings
+IMS package
+IMS package FAQ
+IMS package module settings
+IMS resource type
+IPA filter
+IP blocker
+ISA Server
+Iframe
+Images
+Import a community course
+Import and export FAQ
+Import course data
+Import glossary entries
+Import groups
+Import questions
+Importing/exporting glossaries
+Importing questions
+Improving English language strings
+In progress courses block
+Inactive User Cleanup
+Incoming mail configuration
+Increasing privacy in Moodle
+Insert interactive activity (iAssign) by TinyMCE editor
+Inserting content into a lesson activity
+Insights
+Inspire
+Install
+Install-on-IBM-Cloud
+Install Guide for Installing Amazon EC2
+Install Moodle on FreeBSD
+Install Postgres for Mac OS X
+Installation
+Installation FAQ
+Installation Guide for Installing on Amazon EC2
+Installation Package for OS X
+Installation Package for Windows
+Installation Package for macOS
+Installation Quickstart
+Installation guide for Windows using EasyPHP
+Installation on OS X
+Installation on Ubuntu using Git
+Installation quick guide
+Installations 10000 plus
+Installations 1000 plus
+Installations 250000 plus
+Installations 300000 plus
+Installations 30000 plus
+Installations 5000 plus
+Installing AMP
+Installing APC in Windows
+Installing Apache, MySQL and PHP
+Installing Apache on Windows
+Installing MSSQL for PHP
+Installing Moodle
+Installing Moodle 2.0
+Installing Moodle from Git repository
+Installing Moodle on Debian based distributions
+Installing Moodle on SmarterASP.NET
+Installing Moodle using command line
+Installing MySQL on Windows
+Installing PHP on Windows
+Installing a new theme
+Installing add-ons
+Installing contributed modules or plugins
+Installing plugins
+Installing unoconv
+Institutions that have Migrated to Moodle
+Integrate Moodle, LDAP and SIMS.net
+Integrating Face-to-face sessions on the course page
+Interactive Content - H5P activity
+Interface guidelines
+Internet Information Services
+Interval question type
+Introduction
+Item analysis theoretical background
+JMeter test plan generator
+Jabber settings
+JavaScript guidelines
+Java Molecular Editor question type
+Javaunittest question type
+Join a community course
+Joomla authentication
+Journal module
+Journals
+Jumps
+Jupiter theme
+Key manager
+Key signature question type
+Keyholder
+Keyholder role
+Kickstart course format
+Kprime question type
+LAEUser
+LDAP Authentication
+LDAP Enrolment
+LDAP authentication
+LDAP enrollment
+LDAP enrolment
+LTI
+LTI External tool
+LTI External tool FAQ
+LTI External tool activity
+LTI External tools
+LTI Moodle to Moodle
+LTI Provider
+LTI and Moodle
+LTI consumer
+LTI provider
+LTI provider tool
+LTS Installation Guide Moodle-3.9 Ubuntu-20.04
+LaTeX
+Label
+Label FAQ
+Label module settings
+Labels
+Language
+Language FAQ
+Language customisation
+Language customization
+Language editing
+Language import utility
+Language pack maintaining
+Language packs
+Language settings
+Language teaching
+Languages
+Large installations
+Largish Installations
+Latest News
+Latest News block
+Latest announcements block
+Latest badges block
+Latest news block
+Latest release notes
+Learner dashboard
+Learning Analytics Enriched Rubric
+Learning Progress
+Learning Tools
+Learning Tools/Bookmarks
+Learning Tools/Installation
+Learning Tools/Invite
+Learning Tools/Notes
+Learning analytics
+Learning analytics indicators
+Learning analytics quick guide
+Learning analytics targets
+Learning and evaluation tools
+Learning plan supervisor
+Learning plan viewer
+Learning plans
+Learning plans block
+Learningcoach
+Legacy course files
+Lesson
+Lesson FAQ
+Lesson Pages
+Lesson activity
+Lesson admin settings
+Lesson clusters
+Lesson defaults
+Lesson dependency
+Lesson examples of use
+Lesson module
+Lesson module/Lesson questions
+Lesson module FAQ
+Lesson question types
+Lesson questions
+Lesson reports
+Lesson score
+Lesson settings
+Lessons
+Letter grades
+Level up
+Level up!
+Level up! quick guide
+Level up block
+Level up quick guide
+Licence
+Licences
+License
+License listing
+Licenses
+Lightbox Gallery
+Linked Logins
+Linked logins
+Linking Moodle and Docs
+List of locales supported on Moodle community servers
+Live logs
+Loan calculator block
+Localhost
+Location
+Location settings
+Log in as
+Logged in user block
+Logging
+Logical Page Order
+Login as
+Login block
+Logos
+Logs
+Logs report
+Ludilearn
+Luna theme
+ME CustomCert Bulk Download
+MFA
+MH AAIRS block
+MNet
+MNet FAQ
+MNet keys
+MNet remote enrolments
+MP3
+MRBS block
+MRBS block/forcebook
+MRBS block/import
+MRBS block/usertt
+MSSQL
+MUC
+MUC FAQ
+Mac Installation
+Mac OS X Installation
+Magtest module
+Magtest module:setup
+Mahara
+Mahara ePortfolio
+Mahara portfolio
+Mahoodle
+Mail configuration
+Mail local plugin
+Main Page
+Main menu block
+Main page
+Maintaining a language pack
+Maintaining data privacy
+Maintenance mode
+Man course formats
+Manage Repositories
+Manage Repository
+Manage access restrictions
+Manage authentication
+Manage content display
+Manage data deletion
+Manage data registry
+Manage data requests
+Manage editors
+Manage file uploads
+Manage my data requests
+Manage policy documents
+Manage privacy settings
+Manage repositories
+Manage roles
+Manage tags
+Manage users
+Manager
+Manager Interactive Activities of iAssign
+Manager dashboard
+Manager role
+Managing LTI External tools
+Managing a Moodle course
+Managing a Moodle site
+Managing accounts
+Managing activities
+Managing admin tools
+Managing analytics
+Managing authentication
+Managing backpacks
+Managing badges
+Managing blocks
+Managing content
+Managing filters
+Managing grades
+Managing local plugins
+Managing plagiarism prevention
+Managing portfolios
+Managing questions
+Managing reports
+Managing repositories
+Managing roles
+Managing site users
+Managing tags
+Manual accounts
+Manual accounts only
+Manual enrolment
+Manual install on Windows 7 with Apache and MySQL
+Manual installation of Moodle 2.0 on Mythbuntu using Git
+MariaDB
+Markdown
+Marking
+Marking block
+Marking guide
+Mars theme
+Martin Dougiamas
+Masquerading
+Matching question type
+Math
+MathJax filter
+MathType
+Mathematics
+Mathematics tools FAQ
+Maths
+Mathslate for Atto
+Matrix
+Matrix question type
+MediaWiki search block
+Media FAQ
+Media Player
+Media embedding
+Media players
+Medicine
+Mentees block
+Mentor role
+Mercury theme
+Merged course
+Merlot.org
+Merlot.org repository
+Message Log
+Message My Teacher Block
+Message history
+Message provider
+Messages
+Messages block
+Messaging
+Messaging FAQ
+Messaging permissions
+Messaging settings
+Meta Courses
+Meta course
+Meta course enrolment
+Metacourse
+Metacourse Link Block
+Metacourse examples of use
+Metacourses
+Microsoft365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams for Atto
+Migrating multi-domain configuration
+Migration
+Migration Web services
+Migration from Moodle
+Migration settings
+Migrations
+Migrations settings
+MindMap Course block
+Mindmap module
+Mirroring Moodle
+Missing test steps into a bug report
+Missing word format
+Missing word question format
+Mnet keys
+Mobile Moodle FAQ
+Mobile app
+Mobile app PUSH Notifications
+Mobile app Push Notifications
+Mobile app notifications
+Mobile devices
+Mobile web services
+Moderator guide
+Module
+Module configuration
+Module security
+Module use report
+Modules
+Modules (administrator)
+Monitoraccesses report
+Months course format
+MooTyper
+MoodeDoc page features
+Moodle
+Moodle.net
+Moodle.org FAQ
+Moodle.org forums Code of Conduct
+Moodle.org forums help
+MoodleBox
+MoodleDT - Development Tools Plugins for Moodle
+MoodleDocs
+MoodleNet
+MoodleNet-meetings
+Moodle 1.4.5 Release Notes
+Moodle App Block support
+Moodle Desktop
+Moodle Docs
+Moodle Docs page features
+Moodle FAQ
+Moodle Forum Help
+Moodle Instance Management
+Moodle LAE
+Moodle Language Lab
+Moodle Learning Analytics FAQ
+Moodle Manuals and Videos
+Moodle Mobile
+Moodle Mobile Assignment module
+Moodle Mobile FAQ
+Moodle Mobile Quiz module
+Moodle Mobile Release Notes
+Moodle Mobile SCORM player
+Moodle Mobile additional features
+Moodle Mobile app
+Moodle Mobile assignment
+Moodle Mobile availability plugin
+Moodle Mobile features
+Moodle Mobile guide for admins
+Moodle Mobile language strings customisation
+Moodle Mobile quiz
+Moodle Mobile quiz offline attempts
+Moodle Mobile synchronization
+Moodle Network
+Moodle Network FAQ
+Moodle Production Server with GIT
+Moodle Version Block
+Moodle Workplace
+Moodle Workplace/VPAT
+Moodle Workplace 3.10.1 new features page
+Moodle Workplace 3.10 new features page
+Moodle Workplace 3.8.2 new features page
+Moodle Workplace 3.9.1 new features page
+Moodle Workplace 3.9.2 new features page
+Moodle Workplace 3.9 new features page
+Moodle Workplace App
+Moodle Workplace Installation
+Moodle Workplace Release notes
+Moodle Workplace Test
+Moodle Workplace Test1
+Moodle Workplace Test2
+Moodle Workplace Test3
+Moodle Workplace Test4
+Moodle Workplace Test 1
+Moodle Workplace VPAT
+Moodle Workplace new features
+Moodle Workplace new features rolling
+Moodle Workplace release notes
+Moodle Workplace rolling new features
+Moodle Workplace rolling release notes
+Moodle XML
+Moodle XML format
+Moodle app
+Moodle app FAQ
+Moodle app H5P support
+Moodle app SCORM player
+Moodle app additional features
+Moodle app features
+Moodle app guide for admins
+Moodle app notifications
+Moodle app offline features
+Moodle app plans
+Moodle app security
+Moodle app synchronization
+Moodle appliance
+Moodle database
+Moodle development
+Moodle development environment with Git submodules
+Moodle documentation FAQ
+Moodle for mobile
+Moodle glossary entries format
+Moodle in education
+Moodle installation screens
+Moodle key terms
+Moodle manuals
+Moodle migration
+Moodle myths
+Moodle registration
+Moodle research
+Moodle security procedures
+Moodle site - basic structure
+Moodle site moodle directory
+Moodle spam
+Moodle statistics
+Moodle version
+Moodle version history
+Moodle video tutorials
+Moodledata directory
+Moodleoverflow
+Moodletxt capabilities
+Moodletxt cron
+Moodletxt push
+Moossenger block
+More features
+More theme
+Morecandy
+Multi-factor authentication
+Multi-language content filter
+Multi-lingual Content filter
+Multi-tenancy
+Multi-tenancy authentication
+Multi-tenancy capabilities
+Multi Authentication
+Multi course grader report
+Multi lang
+Multi language content
+Multianswer question type
+Multichoice Questions
+Multichoice question developer docs
+Multilang filter
+Multimedia file field
+Multimedia plugins
+Multimedia plugins FAQ
+Multimedia plugins filter
+Multinumerical question type
+Multiple Choice question type
+Multiple Search Block
+Multiple True/False Question Type
+Multiple choice question (Lesson)
+Multiple groups
+Multiple search block
+Multitenancy
+Multitopic course format
+Music interval question type
+Music key signature question type
+Music scale question type
+Music theory question type
+Musical harmonic functions question type
+Musical scale question type
+MyMobile theme
+MySQL
+MySQL Admin
+MySQL full unicode support
+My Moodle
+My Profile
+My courses
+My courses page
+My grades
+My home
+My latest badges block
+My private files
+My private files block
+My profile
+My programs and courses catalogue settings
+My stats block
+NNTP authentication
+NTLM authentication
+NWiki roadmap
+Name to structure or reaction question type
+NanoGong
+Natural weighting
+Navigation
+Navigation Page Order
+Navigation bar
+Navigation block
+Neptune theme
+Network servers block
+New Features
+New available courses block
+New features
+New for administrators
+New for mobile
+New for students
+New for teachers
+News forum
+Nextcloud
+Nextcloud repository
+Nginx
+Ngnix
+No Email
+No authentication
+No email
+No login
+No teaching
+Nolink tags
+Non-editing teacher
+Non-editing teacher role
+None Mamp install on OS X
+Notes
+Notes FAQ
+Notifications
+Numerical
+Numerical question developer docs
+Numerical question type
+Numerical question units and intervals
+Nwiki markup
+OAuth2 Services
+OAuth 2
+OAuth 2 Clever service
+OAuth 2 Facebook service
+OAuth 2 Google service
+OAuth 2 LinkedIn service
+OAuth 2 Microsoft service
+OAuth 2 MoodleNet service
+OAuth 2 Nextcloud service
+OAuth 2 Open Badges service
+OAuth 2 Troubleshooting
+OAuth 2 authentication
+OAuth 2 login domains
+OAuth 2 services
+OPcache
+OSS enrolment plugin
+OU blog
+OU multiple response question type
+OU multiple response question type detailed documentation
+OU wiki
+Observer role
+Obsolete
+Office365
+Office365OneNote
+Official Turnitin Deep Integration Module
+Offline activity assignment
+Offline quiz
+Offline quiz activity
+Old releases
+Ollama
+OneDrive repository
+Online Users
+Online Users block
+Online Users block configuration
+Online Users block settings
+Online text assignment
+Online users block
+Oohoo - Capture repository
+Opaque question type
+OpenAI API provider
+OpenDesktop module
+OpenLiteSpeed
+Openlml enrolment plugin
+Operating the Patch Automated Reintegration Tool
+Ordering question type
+Organisation manager role
+Organisation structure
+Organise your courses
+Other lang issues
+Other users
+Other users (course)
+Outcome
+Outcome items
+Outcomes
+Outcomes report
+Output functions
+Override permissions
+Override roles
+Overview
+Overview of my courses
+Overview report
+PAM (Pluggable Authentication Modules)
+PDF Annotation activity
+PHP
+PHP error logs
+PHP info
+PHP settings by Moodle version
+POAS abstract question type
+POP3 server
+POP3 server authentication
+Page
+Page FAQ
+Page admin settings
+Page module settings
+Page resource
+Page resource settings
+Parent Role
+Parent role
+Participants
+Participation report
+Password hashing
+Password policy
+Password salt
+Password salting
+Patch Report
+Patching forms tutorial
+Pattern-match question type
+Pattern-match question type detailed documentation
+Pattern-match with JME question type
+PayPal enrolment
+Payment gateways
+Paypal
+Paypal enrolment
+Pcast FAQ
+Pcast module
+Pcast settings
+Pedagogy
+Peer review
+Peerwork Activity
+People
+Performance
+Performance FAQ
+Performance overview
+Performance recommendations
+Performance settings
+Perl-compatible regular expression question type
+Permissions
+PhET simulations
+PhET simulations in quiz
+Philosophy
+Physics
+Picasa
+Picasa portfolio
+Picasa web album
+Picasa web album repository
+Plagiarism Prevention
+Plagiarism Prevention Compilatio
+Plagiarism Prevention Compilatio Settings
+Plagiarism Prevention Crot 2.0
+Plagiarism Prevention Crot Settings
+Plagiarism Prevention Moss
+Plagiarism Prevention Ouriginal
+Plagiarism Prevention Ouriginal Settings
+Plagiarism Prevention Turnitin
+Plagiarism Prevention Turnitin Settings
+Plagiarism Prevention URKUND
+Plagiarism Prevention URKUND Settings
+Plagiarism Prevention Using Compilatio
+Plagiarism Prevention Using Ouriginal
+Plagiarism Prevention Using URKUND
+Plagiarism prevention
+Plagiarism prevention FAQ
+Playlist plugin
+Plenary meeting
+Plugin FAQ
+Plugin Review Criteria
+Plugin skeleton generator
+Plugins FAQ
+Plugins overview
+Pluto theme
+Podcast
+Podcasting
+Policies
+Policies plugin
+Policy on Advertising
+Policy settings
+Poll block
+PoodLL filter
+PoodLL recording question type
+PoodLL repository
+Poodll Assignment Feedback
+Poodll Assignment Submission
+Poodll Filter
+Poodll Read Aloud
+Poodll Recording Question
+Poodll Subtitle
+Poodll for Atto
+Poodll for TinyMCE
+Popup activities course format
+Portable recording devices
+Portfolio
+Portfolio Plugin for Evernote
+Portfolio module
+Portfolios
+Portfolios FAQ
+Poster module
+PostgreSQL
+Postgres
+Preferences
+Preg question type
+Preg question type examples
+Presets
+Privacy
+Privacy Officer role
+Privacy in the Moodle app
+Privacy laws and Moodle
+Privacy officer
+Privacy officer role
+Privacy policy settings
+Private files
+Private files block
+ProMoodle Installation
+Profile
+Profile field enrolment
+Profile switches
+Program cover page
+Program manager role
+Program page
+Programmed responses question type
+Programming Code Plagiarism Plugin
+Programs
+Programs custom fields
+Progress Bar block
+Progressive enhancement
+Project Course Format
+Publish a course
+Publish as LTI tool
+Publishflow Block: Deploy view
+Publishflow Block: Publishing view
+Publishflow Block: Retrofit
+Publishflow Block: Retrofit & manage view
+Publishflow Block : Additional Roles
+Publishflow Block : Capabilities
+Publishflow Block : Cron
+Publishflow Block : Global Settings
+Publishflow Block : Initialization
+Publishflow Block : Installation
+Publishflow Block : MNET Services
+Publishflow Block : Requirements
+Publishing a course
+Pulse
+Pulse/Configuration
+Pulse/Features
+Pulse/Installation
+Purge all cache
+Purge all caches
+QUESTOURnament module
+Question Bank
+Question Creation module
+Question bank
+Question behaviours
+Question categories
+Question contexts
+Question creator role
+Question engine
+Question import
+Question import/export formats
+Question instances report
+Question permissions
+Question permissions explained with diagrams
+Question practice module
+Question reports
+Question sharer
+Question types
+Question types administration
+Questionnaire
+Questionnaire Conditional branching
+Questionnaire Personality test
+Questionnaire index view
+Questionnaire module
+Questionnaire question types
+Questions
+Questions FAQ
+Quick Course List Block
+Quick Find List Block
+Quick GIT starting guide for Moodle development
+Quick Start Guide
+Quiz
+QuizPort
+QuizPort module
+Quiz FAQ
+Quiz Results
+Quiz Results block
+Quiz Subscores
+Quiz Time Limit
+Quiz UI redesign prototype questions
+Quiz activity
+Quiz admin settings
+Quiz attempt
+Quiz configuration
+Quiz conversion
+Quiz database structure
+Quiz developer docs
+Quiz grades report
+Quiz manual grading report
+Quiz module
+Quiz offline attempts
+Quiz preview
+Quiz question types
+Quiz quick guide
+Quiz report Detailed responses
+Quiz reports
+Quiz responces report
+Quiz responses report
+Quiz results
+Quiz results block
+Quiz rewrite
+Quiz security
+Quiz settings
+Quiz statistics report
+Quiz submission email notification
+Quiz submission notification
+Quiz tips and tricks
+Quiz user with unlimited time role
+Quizventure activity
+Quizventure quick guide
+Quizzes
+RADIUS authentication
+RSS
+RSS feeds
+RSS feeds FAQ
+RSS feeds block
+RSS feeds settings
+RSS in Forums
+RSS in Glossaries
+RSS in forums
+RTCollaboration
+Random Glossary Entry
+Random Glossary Entry block
+Random Short-Answer Matching question type
+Random assignment
+Random glossary entry block
+Random question type
+Random select answers question
+Random select answers question type
+Random short answer matching question developer docs
+Ranking block
+Ratingallocate
+Ratings
+Re-using courses and activities
+Recent Activity
+Recent Activity block
+Recent activity
+Recent activity block
+Recent blog entries
+Recent blog entries block
+Recent files
+Recent files repository
+Recently accessed courses block
+Recently accessed items block
+RecordRTC
+Recording audio for Moodle
+RecordingsBN
+RecordingsBN/view
+Recycle bin
+RedHat Linux installation
+Redis
+Redis cache store
+Reducing spam in Moodle
+Reengagement activity
+Registration
+Registration module
+Regular Expression Short-Answer question type
+Release
+Release Notes
+Release dates
+Release notes
+Releases
+RememberMe
+Remote Learner Adobe Connect Pro Module
+Remote RSS Feeds
+Remote RSS Feeds block configuration
+Remote RSS Feeds block settings
+Remote RSS feeds block
+Remote learner adobe connect pro
+Replacing icons with CSS3
+Report
+Report block
+Report builder
+Report builder (Audience)
+Report builder outdated version
+Report builder report block
+Reports
+Reports FAQ
+Reports in RTCollaboration
+Repositories
+Repositories FAQ
+Repository
+Repository API
+Repurpose resources content type plugin
+Researcher role
+Reset course
+Resource
+Resource List
+Resource settings
+Resources
+Resources FAQ
+Restore
+Restoring file aliases
+Restrict access
+Restrict access FAQ
+Restrict access settings
+Reusing activities
+Reverse pattern match question type
+Reverse proxy frontend
+Risks
+Roadmap
+Rocket theme
+Role contexts
+Role export and import
+Role renaming
+Roles
+Roles FAQ
+Roles and capabilities
+Roles and permissions
+Roles development
+Roles overview
+Roles settings
+Rolling Release Updates
+Rubric
+Rubrics
+Running Moodle Mobile in Desktop
+SCORM
+SCORM/AICC configuration
+SCORM/AICC module
+SCORM/AICC settings
+SCORM Authoring Tips and Tricks
+SCORM FAQ
+SCORM activity
+SCORM admin settings
+SCORM module
+SCORM reports
+SCORM schema
+SCORM settings
+SEB
+SHEBanG plugin
+SMS gateways
+SSL certificate for moodle.org
+STACK installation instructions
+STACK question type
+SWF
+SWF Activity Module
+Safe Exam Browser
+Safe exam browser
+Sandbox
+Sandbox2
+Saturn theme
+Scales
+Scheduled backup settings
+Scheduled tasks
+Scheduler: Adding slots
+Scheduler: All Appointments
+Scheduler: Booking form
+Scheduler: Conflicts
+Scheduler: Exporting schedule tables
+Scheduler: Grading
+Scheduler: My Appointments
+Scheduler: Setting feedback
+Scheduler : Appointing
+Scheduler Module capabilities
+Scheduler Module settings and parameters
+Scheduler module
+Search Forums
+Search Forums block
+Search and replace
+Search and replace tool
+Search forums block
+Search tags
+Secondary education
+Section Links
+Section Links block
+Section Links block settings
+Section block
+Section links block
+Section summary
+Secure Moodle on Raspberry Pi Model 2, Gentoo Linux and Nginx server
+Security
+Security FAQ
+Security checks
+Security keys
+Security overview
+Security overview report
+Security recommendations
+Security report on default user role
+Select missing words question type
+Self completion block
+Self enrolment
+Sending files to Moodle Mobile with iOS
+Separate and Connected Knowing
+Separate and Connected ways of knowing
+Server cluster
+Server files
+Server files repository
+Server settings
+Session Booking
+Session handling
+Sessions FAQ
+Set splitting question type
+Set up payment
+Setting up a Feedback
+Setting up a questionnaire
+Setting up a web service
+Setting up data privacy
+Settings
+Settings block
+Setup Repository Connection
+Share Files
+Share to MoodleNet
+Sharing Cart
+Sharing Cart/Project Format Errors
+Sharing cart
+Sharing files with Moodle Mobile with iOS
+Shibboleth
+Short-Answer question type
+Short answer analysis
+Sideblocks
+Signing-up for a Face-to-face session
+Simple Clock block
+Simple Course Creator
+Simple calculated question type
+Simple certificate module
+Simplifying the gradebook
+Simplifying the gradebook by changing permissions
+Single view
+Site-wide groups
+Site-wide reports
+Site Agreements
+Site Backup for Low-tech Users
+Site admin presets
+Site administration
+Site administration block
+Site administrators
+Site appearance
+Site backup
+Site home
+Site home FAQ
+Site home settings
+Site notifications
+Site policies
+Site registration
+Site reports
+Site restore
+Site restore for low-tech users
+Site security settings
+Site wide user report
+Sitewide reports
+Skydrive repository
+Skype module
+Skype presence
+Skype presence block
+Slack message processor
+Slash arguments
+Slideshow block
+Slideshow module
+Social activities
+Social activities block
+Social constructivism
+Solution sheet
+Sookooroo block
+Sookooroo module
+Sound
+Sound files
+Soundcloud filter
+Soundcloud repository
+Spam
+Spam cleaner
+Speech tools
+Spell engine
+Spelling questions
+Splitset question type
+Spreadsheet question type
+Stamp Collection module
+Stamp collection module
+Standard Classification of Educational Fields
+Standard Moodle tags
+Standard course formats
+Standard roles
+Standard themes
+Standards
+Starred courses block
+Starting a new language pack
+Stash block
+Statistics
+Statistics reports
+Stats package
+Stealth activities
+Step-by-step Install Guide for Ubuntu
+Step-by-step Installation Guide for Ubuntu
+Step by Step Installation Guide for RedHat
+Step by Step Installation Guide for Windows
+Step by Step Installation on a Mac OS X 10.5 Server
+Step by Step Installation on a Mac OS X Server
+Step by Step Installation on a OS X Lion Server
+Step by Step Installation on a OS X Mountain Lion Server
+Sticky blocks
+Sticky post
+Sticky thread
+Streaming Media
+Streamline your course page
+Structure match with editor question type
+Student
+StudentQuiz
+StudentQuiz module
+Student FAQ
+Student Information API
+Student documentation
+Student progress
+Student projects
+Student role
+Student tutorials
+Students at risk of dropping out
+Super-administration
+Supervised block
+Support contact
+Survey
+Survey FAQ
+Survey activity
+Survey module
+Survey module FAQ
+Survey permissions
+Survey report
+Survey settings
+Surveypro element types
+Surveypro module
+Surveypro rationale
+Surveypro settings
+Surveypro templates
+Surveys
+Suspected cheating block
+Switch role
+Switch roles
+Switch to other role
+Switch to other roles
+Switching to natural weighting
+System Monitoring and Server Statistic Software
+System paths
+System status report
+Tab display module
+Table of Contents
+Table of locales
+Tag cloud generator block
+Tag editing
+Tag permissions
+Tag settings
+Tags
+Tags FAQ
+Tags block
+Task
+TaskChain module
+Task module
+TeX Filter
+TeX Symbols in SEE
+TeX filter
+TeX notation
+TeX notation filter
+Teacher
+Teacher documentation
+Teacher introduction
+Teacher quick guide
+Teacher role
+Teaching FAQ
+Teaching tips and tricks
+Teaching with Moodle
+Teaching with Moodle - Best Practices
+TeamUp
+Team overview block
+Techproject Module
+Techproject module
+Telegram message processor
+Template creator
+Template library
+Tenant administrator in course category role
+Tenant administrator role
+Tenant manager role
+Tenant user role
+Tertiary education
+Test
+Test course generator
+Test page
+Test site generator
+Testing credits
+Tests
+TexToys
+Text and media area
+Text and media area FAQ
+Text and media area settings
+Text block
+Text editor
+Text editor FAQ
+Text editor settings
+Text editors
+Text filters
+Text page
+The OU workflow system
+Theme
+Theme:Aardvark
+ThemeConfig
+Theme Designer Mode
+Theme Tester tool
+Theme config
+Theme directory
+Theme location
+Theme selector
+Theme settings
+Theme usage report
+Themes
+Themes FAQ
+Third-party question types
+ThreeSixty module
+Time
+TimeSpent
+Timeline block
+TinyMCE
+TinyMCE Mathslate
+TinyMCE editor
+TinyMCE editor (legacy)
+Tips and tricks
+Toggle preview
+Tools for backing up server files
+Tools for creating SCORM content
+Top 10 Moodle Myths
+Topology notes
+Tracker
+Tracker development
+Tracker introduction
+Tracker module
+Tracker module/Bug recollection form
+Tracker module/Capabilities
+Tracking progress
+Trainer
+Transitioning to HTTPS
+Translating Moodle Academy
+Translating Moodle Docs
+Translating plugins
+Translating the Moodle App
+Translating the Moodle app
+Translation
+Translation FAQ
+Translation credits
+Translation langconfig
+Translation priority
+Travis Hubbard
+Tree topic course format
+Triage
+True/False question type
+Trusttext cleaning bypass
+Try Moodle
+Turn editing on
+Turnitin
+Turnitin's Moodle Direct Integration
+Turnitin's Moodle Direct Integration (Administrator Guide)
+Turnitin's Moodle Direct Integration (Instructor Guide)
+Turnitin's Moodle Direct Integration (Student Guide)
+Turnitin's Moodle Direct Integration - Frequently Asked Questions
+Turnitin FAQ
+Turnitin Integration
+Turnitin Moodle Direct
+Turnitin administration
+Turnitin errors
+Tutor Link Block
+Tutorial
+Tutorship module
+TypoRepo
+TypoRepo/Installation
+UB hot spots question type
+UIkit theme
+UNEDTrivial
+UNEDTrivial from the student point of view
+UNEDTrivial from the teacher point of view
+URL
+URL FAQ
+URL admin settings
+URL downloader repository
+URL module settings
+URL resource
+URL resource FAQ
+URL resource settings
+UTF-8
+UTF-8 and BOM
+Unanswered Discussions block
+Unenrol
+Unenrollment
+Unenrolment
+Unexpected installation halts
+Unicode
+Unilabel module
+Uniquelogin authentication
+Unit tests
+Universal Office Converter (unoconv)
+Unix or Linux Installation
+Unmerged files
+Unsupported role assignments
+Upcoming Events
+Upcoming Events block
+Upcoming activities due
+Upcoming events block
+Update profile
+Update timezones
+Updating a Lesson
+Upgrade
+UpgradeDB
+Upgrade key
+Upgrade overview
+Upgrade tool
+Upgrade warnings
+Upgrading
+Upgrading FAQ
+Upgrading Moodle
+Upgrading XAMPP
+Upgrading to 3.0
+Upgrading to 4.5
+Upgrading to Moodle 2.0
+Upgrading to Moodle 2.2
+Upgrading to Moodle 2.3
+Upgrading to Moodle 2.5
+Upgrading to Moodle 2.6
+Upgrading to Moodle 2.7
+Upgrading to Moodle 2.8
+Upgrading to Moodle 2.9
+Upgrading to Moodle 3.0
+Upgrading to Moodle 3.1
+Upgrading to Moodle 3.10
+Upgrading to Moodle 3.11
+Upgrading to Moodle 3.2
+Upgrading to Moodle 3.3
+Upgrading to Moodle 3.4
+Upgrading to Moodle 3.5
+Upgrading to Moodle 3.6
+Upgrading to Moodle 3.7
+Upgrading to Moodle 3.8
+Upgrading to Moodle 3.9
+Upgrading to Moodle 4.0
+Upgrading to Moodle 4.1
+Upgrading to Moodle 4.2
+Upgrading to Moodle 4.3
+Upgrading to Moodle 4.4
+Upgrading to Moodle 4.5
+Upload Tutor Relationships Block
+Upload a course
+Upload a file
+Upload a file repository
+Upload a single file assignment
+Upload cohorts
+Upload courses
+Upload user pictures
+Upload users
+Upload users in Moodle Workplace
+Uranus theme
+Usability
+Usage
+Use Stats Block
+Use Time Based Course Report
+Use Time Based Course Report : Excel exports
+Use Time Based Course Report : Per Group
+Use Time Based Course Report : Per Student
+Use a CAS server (SSO)
+Use a FirstClass server
+Useful things a teacher can do with roles
+User Authentication
+User bookmarks block
+User default preferences
+User menu
+User pictures
+User policies
+User profile
+User profile fields
+User profiles
+User profiles in Moodle Workplace
+User quick guide
+User report
+User tours
+Users
+Uses of roles
+Using Activity completion
+Using Assignment
+Using Blogs
+Using Book
+Using Calendar
+Using Chat
+Using Choice
+Using Conditional activities
+Using Course completion
+Using Database
+Using External tool
+Using Feedback
+Using Forum
+Using GIT to backup moodledata
+Using Git to backup moodledata
+Using Glossary
+Using Label
+Using Lesson
+Using Mediabird Study Notes
+Using Messaging
+Using MimeTeX
+Using Moodle book
+Using Page
+Using Quiz
+Using RSS feeds
+Using SCORM
+Using Survey
+Using TeX Notation
+Using TeX Notation 2
+Using TeX Notation 3
+Using TeX Notation 4
+Using TeX notation
+Using Text and media area
+Using Wiki
+Using Workshop
+Using analytics
+Using badges
+Using certainty-based marking
+Using question bank
+Using quiz
+Using restrict access
+Using roles
+Using slash arguments
+Using tags
+Using the Microsoft SQL Server Driver for PHP
+Using web services
+VMoodle Block
+VMoodle Local
+VMware installation
+VPAT
+Variable numeric question type
+Variable numeric set question type
+Variable numeric set with units question type
+Vendor directory security check
+Venus theme
+Verification of sites on moodle.org
+Verify Database Schema
+Vertical matching question type
+Very Large Installations
+Video
+VideoJS player
+VideoTime
+VideoTime/Installation
+VideoTime/Upgrade
+Video FAQ
+Videofile
+View plugin privacy registry
+View privacy policy
+View profile
+View user agreements
+View user policies and agreements
+Viewing Feedback responses
+Viewing Questionnaire responses
+Viewing a SCORM
+Viewing a book
+Viewing a choice
+Viewing a database
+Viewing a discussion
+Viewing a forum
+Viewing a glossary
+Viewing a lesson
+Viewing a quiz
+Viewing a survey
+Viewing a wiki
+Viewing an assignment
+Viewing live choice results
+Viewing responses
+Virtual lab filter
+Vitero module
+Voice tools
+Vulnerability scans
+WIRIS
+WIRIS math & science questions
+WebCT format
+WebDAV Connect
+WebDAV Setup
+WebDAV repository
+Web Services
+Web services
+Web services FAQ
+Web services authentication
+Web services for ordinary users
+Web services test client
+Webinar module
+Whiteboard
+Whiteboard/Installation
+Why porn spam has been appearing in Moodle sites
+Wiki
+Wiki FAQ
+Wiki activity
+Wiki comments
+Wiki module
+Wiki module FAQ
+Wiki permissions
+Wiki requirements
+Wiki settings
+Wikimedia repository
+WikipediaCalls filter
+Wikis
+Windows 1 computer many servers
+Windows installation
+Windows installation using Git
+Windows installation using XAMPP
+Wooclap
+Word censorship
+Word censorship filter
+Word count quick guide
+Word table format
+Wordselect question type
+Working with files
+Working with files and folders
+Working with groups
+Working with groups in RTCollaboration
+Working with media
+Workplace
+Workplace Dashboard
+Workplace My courses
+Workplace Programs
+Workplace Web services
+Workplace learning block
+Workplace localisation
+Workplace localisation & translation
+Workplace plugins
+Workplace release notes
+Workplace security
+Workplace theme
+Workshop
+Workshop FAQ
+Workshop activity
+Workshop admin settings
+Workshop check
+Workshop grading
+Workshop grading strategies
+Workshop module
+Workshop module/Tutorial
+Workshop module FAQ
+Workshop quick guide
+Workshop settings
+Workshop test
+Workshop trial
+Workshop try
+Workshop work flow
+Workshops
+XAMPP
+XHTML
+XHTML format
+XML
+XML FAQ
+XML database schema
+XSS trusted users
+Xampp Installer FAQ
+Year-end procedures
+Year end procedures
+YouTube block
+YouTube videos repository
+You Might Be a Moodler
+Youtube block
+Youtube videos
+Youtube videos repository
+accessibility
+activities
+activity/completion
+activity completion
+activity completion settings
+ad-hoc contributed reports
+admin/
+admin/admin
+admin/auth
+admin/auth/cas
+admin/auth/db
+admin/auth/email
+admin/auth/fc
+admin/auth/imap
+admin/auth/ldap
+admin/auth/lti
+admin/auth/manual
+admin/auth/mnet
+admin/auth/nntp
+admin/auth/nologin
+admin/auth/none
+admin/auth/pam
+admin/auth/pop3
+admin/auth/radius
+admin/auth/shibboleth
+admin/auth/webservice
+admin/auth config
+admin/backup
+admin/blocks
+admin/cache/admin
+admin/cache/testperformance
+admin/calendar
+admin/cohort/customfield
+admin/cohort/index
+admin/comment/index
+admin/contentbank/customfield
+admin/course/category
+admin/course/customfield
+admin/course/index
+admin/course/manage
+admin/course/report/log/index
+admin/course/report/log/indexlive
+admin/course/report/stats/index
+admin/course/resetindentation
+admin/cron
+admin/enrol
+admin/enrol/imsenterprise
+admin/enrol/test settings
+admin/environment
+admin/environment/custom check/Assignment 2.2 subplugins present
+admin/environment/custom check/Asynchronous backups disabled
+admin/environment/custom check/check mysql file format
+admin/environment/custom check/check ssl wwwroot
+admin/environment/custom check/db prefix too long
+admin/environment/custom check/max input vars
+admin/environment/custom check/mysql full unicode support
+admin/environment/custom check/php check register globals
+admin/environment/custom check/php not 64 bits
+admin/environment/custom check/question check no rqp questions
+admin/environment/custom check/question random check
+admin/environment/custom check/quiz attempts upgraded
+admin/environment/custom check/site not https
+admin/environment/custom check/slasharguments
+admin/environment/custom check/ssl/tls configuration not supported
+admin/environment/custom check/unoconv version not supported
+admin/environment/custom check/unsupported db table row format
+admin/environment/custom check/xmlrpc webservice usage
+admin/environment/database/mariadb (10.11.3-MariaDB-1)
+admin/environment/database/mariadb (10.4.28-MariaDB)
+admin/environment/database/mariadb (5.5.5-10.1.16-MariaDB)
+admin/environment/database/mariadb (5.5.5-10.1.28-MariaDB)
+admin/environment/database/mariadb (5.5.5-10.4.8-MariaDB)
+admin/environment/database/mssql
+admin/environment/database/mysql
+admin/environment/database/mysql (5.5.36)
+admin/environment/database/mysql (5.5.43-0ubuntu0.14.04.1-log)
+admin/environment/moodle
+admin/environment/pcreunicode
+admin/environment/php
+admin/environment/php extension/ctype
+admin/environment/php extension/curl
+admin/environment/php extension/dom
+admin/environment/php extension/fileinfo
+admin/environment/php extension/gd
+admin/environment/php extension/hash
+admin/environment/php extension/iconv
+admin/environment/php extension/intl
+admin/environment/php extension/json
+admin/environment/php extension/mbstring
+admin/environment/php extension/openssl
+admin/environment/php extension/pcre
+admin/environment/php extension/simplexml
+admin/environment/php extension/soap
+admin/environment/php extension/sodium
+admin/environment/php extension/spl
+admin/environment/php extension/tokenizer
+admin/environment/php extension/xml
+admin/environment/php extension/xmlreader
+admin/environment/php extension/xmlrpc
+admin/environment/php extension/zip
+admin/environment/php extension/zlib
+admin/environment/php setting/file uploads
+admin/environment/php setting/memory limit
+admin/environment/php setting/opcache.enable
+admin/environment/php setting/safe mode
+admin/environment/slasharguments
+admin/environment/unicode
+admin/external service
+admin/filter/manage
+admin/filter/oembed/manageproviders
+admin/filters
+admin/grade/edit/letter/index
+admin/grade/edit/outcome/edit
+admin/grade/edit/outcome/index
+admin/grade/edit/scale/edit
+admin/grade/edit/scale/index
+admin/index
+admin/lang
+admin/langdoc
+admin/langimport
+admin/local/codechecker/index
+admin/local/hubdirectory/managehubs
+admin/local/usertours/configure
+admin/localplugins
+admin/maintenance
+admin/manageportfolio/boxnet
+admin/managerepository/boxnet
+admin/managerepository/flickr
+admin/managerepository/flickr public
+admin/managerepository/remotemoodle
+admin/mdeploy/download file exception
+admin/mdeploy/notdownloadable
+admin/mdeploy/notwritable
+admin/mdeploy/unauthorized access exception
+admin/mdeploy/zip exception
+admin/message
+admin/message/defaultoutputs
+admin/mnet
+admin/mnet/access control
+admin/mnet/index
+admin/mnet/peers
+admin/mnet/service/enrol/index
+admin/mnet/testclient
+admin/mnet/trustedhosts
+admin/mod/assign/adminmanageplugins
+admin/mod/glossary/formats
+admin/mod/lti/toolconfigure
+admin/mod/lti/toolproxies
+admin/mod/lti/typesettings
+admin/mod/mediasite/site/configuration
+admin/mod/quiz/accessrule/seb/template
+admin/modules
+admin/payment/accounts
+admin/payment/manage account
+admin/payment/manage gateway
+admin/phpinfo
+admin/plagiarism
+admin/plugins
+admin/portfolio
+admin/portfolio/boxnet
+admin/portfolio/download
+admin/portfolio/evernote
+admin/portfolio/flickr
+admin/portfolio/googledocs
+admin/portfolio/picasa
+admin/purgecaches
+admin/qbehaviours
+admin/qtypes
+admin/register
+admin/registration/index
+admin/registration/register
+admin/replace
+admin/report
+admin/report/backups/index
+admin/report/benchmark/index
+admin/report/capability/index
+admin/report/configlog/index
+admin/report/courseoverview/index
+admin/report/coursesize/index
+admin/report/customlang/edit
+admin/report/customlang/index
+admin/report/customsql/delete
+admin/report/customsql/edit
+admin/report/customsql/index
+admin/report/customsql/view
+admin/report/eventlist/index
+admin/report/insights/insights
+admin/report/log/index
+admin/report/loglive/index
+admin/report/performance/index
+admin/report/question/index
+admin/report/questioninstances/index
+admin/report/search/index
+admin/report/security/index
+admin/report/simpletest/index
+admin/report/spamcleaner/index
+admin/report/stats/index
+admin/report/status/index
+admin/report/themeusage/index
+admin/report/unittest/dbtest
+admin/report/unittest/index
+admin/report/unsuproles/index
+admin/reportbuilder/edit
+admin/reportbuilder/index
+admin/reports
+admin/repository
+admin/repository/alfresco
+admin/repository/areafiles
+admin/repository/boxnet
+admin/repository/contentbank
+admin/repository/dropbox
+admin/repository/equella
+admin/repository/filesystem
+admin/repository/flickr
+admin/repository/flickr public
+admin/repository/googledocs
+admin/repository/local
+admin/repository/merlot
+admin/repository/nanogong
+admin/repository/nextcloud
+admin/repository/onedrive
+admin/repository/picasa
+admin/repository/recent
+admin/repository/s3
+admin/repository/skydrive
+admin/repository/upload
+admin/repository/url
+admin/repository/user
+admin/repository/webdav
+admin/repository/wikimedia
+admin/repository/youtube
+admin/repositoryinstance
+admin/roles/admins
+admin/roles/allow
+admin/roles/allowassign
+admin/roles/allowoverride
+admin/roles/assign
+admin/roles/check
+admin/roles/define
+admin/roles/manage
+admin/roles/override
+admin/roles/permissions
+admin/roles/usersroles
+admin/search
+admin/searchareas
+admin/setting/accounts
+admin/setting/activitychoosersettings
+admin/setting/additionalhtml
+admin/setting/ai
+admin/setting/aiplacement
+admin/setting/aiprovider
+admin/setting/aiprovider azureai
+admin/setting/aiprovider openai
+admin/setting/aiprovider openai generate image
+admin/setting/aiprovider openai generate text
+admin/setting/aiprovider openai summarise text
+admin/setting/ajax
+admin/setting/analytics
+admin/setting/analyticssettings
+admin/setting/antivirus
+admin/setting/antivirussettingsclamav
+admin/setting/appearance
+admin/setting/assignfeedback comments
+admin/setting/assignfeedback editpdf
+admin/setting/assignfeedback file
+admin/setting/assignfeedback offline
+admin/setting/assignfeedbackplugins
+admin/setting/assignsubmission comments
+admin/setting/assignsubmission file
+admin/setting/assignsubmission onlinetext
+admin/setting/asyncgeneralsettings
+admin/setting/atto collapse settings
+admin/setting/atto equation settings
+admin/setting/atto styles settings
+admin/setting/atto table settings
+admin/setting/authsettingcas
+admin/setting/authsettingdb
+admin/setting/authsettingemail
+admin/setting/authsettingldap
+admin/setting/authsettingmanual
+admin/setting/authsettingmnet
+admin/setting/authsettingnone
+admin/setting/authsettingoauth2
+admin/setting/authsettingshibboleth
+admin/setting/automated
+admin/setting/backpacksettings
+admin/setting/backupgeneralsettings
+admin/setting/backups
+admin/setting/badges
+admin/setting/badgesettings
+admin/setting/blocksettingadmin alert
+admin/setting/blocksettingcourse list
+admin/setting/blocksettingcourse overview
+admin/setting/blocksettingdeft
+admin/setting/blocksettingheatmap
+admin/setting/blocksettinghtml
+admin/setting/blocksettingmoodletxt
+admin/setting/blocksettingmrbs
+admin/setting/blocksettingmyoverview
+admin/setting/blocksettingonline users
+admin/setting/blocksettingrss client
+admin/setting/blocksettingsection links
+admin/setting/blocksettingsharing cart
+admin/setting/blocksettingslideshow
+admin/setting/blocksettingtag youtube
+admin/setting/blocksettingtags
+admin/setting/blog
+admin/setting/brickfieldfolder
+admin/setting/cachestore apcu settings
+admin/setting/cachestore memcache settings
+admin/setting/cachestore memcached settings
+admin/setting/cachestore mongodb settings
+admin/setting/cachestore redis settings
+admin/setting/calendar
+admin/setting/cleanup
+admin/setting/commonfiltersettings
+admin/setting/communication matrix
+admin/setting/competencies
+admin/setting/competencysettings
+admin/setting/coursecontact
+admin/setting/courserequest
+admin/setting/coursesettings
+admin/setting/dataformatsettings
+admin/setting/dataprivacysettings
+admin/setting/datastoresettings
+admin/setting/debugging
+admin/setting/documentation
+admin/setting/downloadcoursecontent
+admin/setting/editorsettingsatto
+admin/setting/editorsettingstiny
+admin/setting/editorsettingstinymce
+admin/setting/enrolments
+admin/setting/enrolsettingsautoenrol
+admin/setting/enrolsettingscategory
+admin/setting/enrolsettingscohort
+admin/setting/enrolsettingsdatabase
+admin/setting/enrolsettingsfee
+admin/setting/enrolsettingsflatfile
+admin/setting/enrolsettingsguest
+admin/setting/enrolsettingsimsenterprise
+admin/setting/enrolsettingsldap
+admin/setting/enrolsettingslti
+admin/setting/enrolsettingsmanual
+admin/setting/enrolsettingsmeta
+admin/setting/enrolsettingsmnet
+admin/setting/enrolsettingspaypal
+admin/setting/enrolsettingsself
+admin/setting/experimental
+admin/setting/experimentalsettings
+admin/setting/externalservices
+admin/setting/factor sms
+admin/setting/fileconvertergoogledrive
+admin/setting/fileconverterplugins
+admin/setting/fileconverterunoconv
+admin/setting/filter generico templatepage 1
+admin/setting/filtersettingcensor
+admin/setting/filtersettingdisplayh5p
+admin/setting/filtersettingemoticon
+admin/setting/filtersettingfiltercensor
+admin/setting/filtersettingfilteremoticon
+admin/setting/filtersettingfiltermediaplugin
+admin/setting/filtersettingfiltermultilang
+admin/setting/filtersettingfiltertex
+admin/setting/filtersettingfilterurltolink
+admin/setting/filtersettinggenerico
+admin/setting/filtersettingmathjaxloader
+admin/setting/filtersettingmediaplugin
+admin/setting/filtersettingmultilang
+admin/setting/filtersettingrtmp
+admin/setting/filtersettings
+admin/setting/filtersettingtex
+admin/setting/filtersettingvlabembed
+admin/setting/formatsettinggrid
+admin/setting/formatsettingsingleactivity
+admin/setting/formatsettingtopics
+admin/setting/formatsettingweeks
+admin/setting/frontpage
+admin/setting/frontpagesettings
+admin/setting/gradebook
+admin/setting/gradecategorysettings
+admin/setting/gradeitemsettings
+admin/setting/gradereportgrader
+admin/setting/gradereporthistory
+admin/setting/gradereportoverview
+admin/setting/gradereports
+admin/setting/gradereportuser
+admin/setting/gradessettings
+admin/setting/h5p
+admin/setting/h5psettings
+admin/setting/htmlsettings
+admin/setting/http
+admin/setting/httpsecurity
+admin/setting/importgeneralsettings
+admin/setting/inspiremanagement
+admin/setting/ipblocker
+admin/setting/jabber
+admin/setting/langsettings
+admin/setting/language
+admin/setting/local mobile
+admin/setting/local reminders
+admin/setting/locationsettings
+admin/setting/logos
+admin/setting/logsettingdatabase
+admin/setting/logsettinglegacy
+admin/setting/logsettingstandard
+admin/setting/mail
+admin/setting/maintenancemode
+admin/setting/manageantiviruses
+admin/setting/manageauths
+admin/setting/managecommunicationproviders
+admin/setting/managedataformats
+admin/setting/manageeditors
+admin/setting/manageenrols
+admin/setting/managefileconverterplugins
+admin/setting/managefilters
+admin/setting/manageformats
+admin/setting/manageglobalsearch
+admin/setting/managelicenses
+admin/setting/managelogging
+admin/setting/managemediaplayers
+admin/setting/managemfa
+admin/setting/managemodulescommon
+admin/setting/managepaymentgateways
+admin/setting/manageportfolios
+admin/setting/manageportfolioscommon
+admin/setting/managerepositories
+admin/setting/managerepositoriescommon
+admin/setting/mediaplayers
+admin/setting/mediasettings
+admin/setting/mediasettingvideojs
+admin/setting/messageinbound mailsettings
+admin/setting/messages
+admin/setting/messagesettingairnotifier
+admin/setting/messagesettingemail
+admin/setting/messagesettingjabber
+admin/setting/mnetprofilefields
+admin/setting/mobile
+admin/setting/mobileapp
+admin/setting/mobileappearance
+admin/setting/mobileauthentication
+admin/setting/mobilefeatures
+admin/setting/mobilesettings
+admin/setting/modsettingassign
+admin/setting/modsettingassignment
+admin/setting/modsettingbigbluebuttonbn
+admin/setting/modsettingbook
+admin/setting/modsettingchat
+admin/setting/modsettingcustomcert
+admin/setting/modsettingdata
+admin/setting/modsettingfeedback
+admin/setting/modsettingfolder
+admin/setting/modsettingforum
+admin/setting/modsettinggiportfolio
+admin/setting/modsettingglossary
+admin/setting/modsettingimscp
+admin/setting/modsettinglabel
+admin/setting/modsettinglesson
+admin/setting/modsettinglti
+admin/setting/modsettingmediasite
+admin/setting/modsettingofflinequiz
+admin/setting/modsettingpage
+admin/setting/modsettingquiz
+admin/setting/modsettingresource
+admin/setting/modsettingscorm
+admin/setting/modsettingsquizcat
+admin/setting/modsettingsurveypro
+admin/setting/modsettingurl
+admin/setting/modsettingworkshop
+admin/setting/modulesecurity
+admin/setting/moodlenetoutbound
+admin/setting/moodletxtaccounts
+admin/setting/moodletxtaccountsnew
+admin/setting/moodletxtfilters
+admin/setting/mymoodle
+admin/setting/navigation
+admin/setting/notifications
+admin/setting/optionalsubsystems
+admin/setting/outgoingmailconfig
+admin/setting/paymentgatewaypaypal
+admin/setting/paymentgateways
+admin/setting/performance
+admin/setting/plagiarismsettings
+admin/setting/policysettings
+admin/setting/privacy
+admin/setting/privacysettings
+admin/setting/qdefaultsetting
+admin/setting/qtypesettingformulas
+admin/setting/qtypesettingmultichoice
+admin/setting/reportbuildersettings
+admin/setting/restoregeneralsettings
+admin/setting/rss
+admin/setting/scheduled
+admin/setting/sessionhandling
+admin/setting/sitepolicies
+admin/setting/sms
+admin/setting/stats
+admin/setting/supportcontact
+admin/setting/systempaths
+admin/setting/tasklogging
+admin/setting/taskprocessing
+admin/setting/theme academi footer
+admin/setting/theme academi header
+admin/setting/theme academi slideshow
+admin/setting/theme adaptable analytics
+admin/setting/theme adaptable blocks
+admin/setting/theme adaptable buttons
+admin/setting/theme adaptable color
+admin/setting/theme adaptable font
+admin/setting/theme adaptable header
+admin/setting/theme adaptable header navbar menu
+admin/setting/theme adaptable menus
+admin/setting/theme adaptable navbar
+admin/setting/theme adaptable social
+admin/setting/theme adaptable usernav
+admin/setting/theme bcu colour
+admin/setting/theme bcu footer
+admin/setting/theme bcu frontpage blocks
+admin/setting/theme bcu frontpage courses
+admin/setting/theme bcu frontpage slider
+admin/setting/theme bcu generic
+admin/setting/theme bcu header
+admin/setting/theme bcu layout
+admin/setting/theme evolved custommenu
+admin/setting/theme evolved frontpage
+admin/setting/theme evolved generic
+admin/setting/theme evolved marketing
+admin/setting/theme evolved socialwall
+admin/setting/theme evolved themecolors
+admin/setting/theme pioneer colorheading
+admin/setting/theme pioneer generic
+admin/setting/theme pioneer googleheading
+admin/setting/theme pioneer iconnav
+admin/setting/theme pioneer socialiconnav
+admin/setting/theme school
+admin/setting/theme shoehorn general
+admin/setting/theme uikit generic
+admin/setting/themesettingaigne
+admin/setting/themesettingboost
+admin/setting/themesettingfordson
+admin/setting/themesettingmore
+admin/setting/themesettingmymobile
+admin/setting/themesettings
+admin/setting/themesettingsadvanced
+admin/setting/tiny equation settings
+admin/setting/tiny premium settings
+admin/setting/tiny recordrtc settings
+admin/setting/tinymcemoodleemoticonsettings
+admin/setting/tinymcespellcheckersettings
+admin/setting/tool brickfield
+admin/setting/tool catalogue catalogue
+admin/setting/tool cohortdatabase
+admin/setting/tool dataprivacy
+admin/setting/tool moodlenet
+admin/setting/tool recyclebin
+admin/setting/toolmfafolder
+admin/setting/updatenotifications
+admin/setting/userdefaultpreferences
+admin/setting/userfeedback
+admin/setting/usermanagement
+admin/setting/userpolicies
+admin/setting/webserviceprotocols
+admin/setting/webservicesoverview
+admin/setting/webservicetokens
+admin/site
+admin/sms/sms gateways
+admin/tag/manage
+admin/tasklogs
+admin/theme/index
+admin/themeselector
+admin/thirdpartylibs
+admin/timezoneimport
+admin/tool/admin presets/index
+admin/tool/analytics/index
+admin/tool/assignmentupgrade/batchupgrade
+admin/tool/assignmentupgrade/index
+admin/tool/assignmentupgrade/listnotupgraded
+admin/tool/availabilityconditions/index
+admin/tool/behat/index
+admin/tool/brickfield/index
+admin/tool/brickfield/registration
+admin/tool/capability/index
+admin/tool/capexplorer/index
+admin/tool/certificate/certificates
+admin/tool/certificate/index
+admin/tool/certificate/manage templates
+admin/tool/certificate/template
+admin/tool/certificate/upload image
+admin/tool/certification/edit
+admin/tool/certification/index
+admin/tool/certification/progress
+admin/tool/certification/report
+admin/tool/cohortroles/index
+admin/tool/coursesearch/index
+admin/tool/customlang/edit
+admin/tool/customlang/index
+admin/tool/custompage/index
+admin/tool/dataprivacy/createdatarequest
+admin/tool/dataprivacy/datadeletion
+admin/tool/dataprivacy/dataregistry
+admin/tool/dataprivacy/datarequests
+admin/tool/dataprivacy/mydatarequests
+admin/tool/dataprivacy/pluginregistry
+admin/tool/dataprivacy/summary
+admin/tool/dbtransfer/index
+admin/tool/downloaddata/index courses
+admin/tool/downloaddata/index users
+admin/tool/dynamicrule/index
+admin/tool/dynamicrule/report
+admin/tool/dynamicrule/rule
+admin/tool/editrolesbycap/index
+admin/tool/filetypes/index
+admin/tool/generator/maketestcourse
+admin/tool/generator/maketestplan
+admin/tool/health/index
+admin/tool/httpsreplace/index
+admin/tool/inspire
+admin/tool/inspire/index
+admin/tool/installaddon/index
+admin/tool/langimport/index
+admin/tool/licensemanager/index
+admin/tool/lp/competencies
+admin/tool/lp/competencyframeworks
+admin/tool/lp/coursecompetencies
+admin/tool/lp/editcompetencyframework
+admin/tool/lp/edittemplate
+admin/tool/lp/learningplans
+admin/tool/lp/plans
+admin/tool/lp/templatecompetencies
+admin/tool/lp/user competency
+admin/tool/lpimportcsv/export
+admin/tool/lpimportcsv/index
+admin/tool/lpmigrate/frameworks
+admin/tool/messageinbound/index
+admin/tool/mfa/factor report
+admin/tool/mfa/reset factor
+admin/tool/mobile/subscription
+admin/tool/monitor/edit
+admin/tool/monitor/managerules
+admin/tool/navdb/index
+admin/tool/oauth2/issuers
+admin/tool/organisation/index
+admin/tool/phpunit/index
+admin/tool/pluginskel/index
+admin/tool/policy/acceptances
+admin/tool/policy/editpolicydoc
+admin/tool/policy/index
+admin/tool/policy/managedocs
+admin/tool/policy/user
+admin/tool/policy/view
+admin/tool/program/customfield
+admin/tool/program/edit
+admin/tool/program/index
+admin/tool/program/programprogress
+admin/tool/program/programsprogress
+admin/tool/program/usersprogress
+admin/tool/qeupgradehelper/cronsetup
+admin/tool/qeupgradehelper/extracttestcase
+admin/tool/qeupgradehelper/index
+admin/tool/qeupgradehelper/listtodo
+admin/tool/qeupgradehelper/listupgraded
+admin/tool/recyclebin/index
+admin/tool/replace
+admin/tool/replace/index
+admin/tool/reportbuilder/index
+admin/tool/reportbuilder/view
+admin/tool/spamcleaner/index
+admin/tool/task/adhoctasks
+admin/tool/task/runningtasks
+admin/tool/task/scheduledtasks
+admin/tool/templatelibrary/index
+admin/tool/tenant/allusers
+admin/tool/tenant/edit
+admin/tool/tenant/index
+admin/tool/tenant/theme
+admin/tool/tenant/users
+admin/tool/themetester/index
+admin/tool/timezoneimport/index
+admin/tool/unittest/dbtest
+admin/tool/unittest/index
+admin/tool/unsuproles/index
+admin/tool/uploadcourse/index
+admin/tool/uploaduser/index
+admin/tool/uploaduser/picture
+admin/tool/usertours/configure
+admin/tool/wp/Migrations
+admin/tool/wp/export
+admin/tool/wp/exportimport
+admin/tool/wp/import
+admin/tool/xmldb/index
+admin/tools
+admin/upgradepluginsinfo
+admin/upgradesettings
+admin/uploadpicture
+admin/uploaduser
+admin/user
+admin/user/editadvanced
+admin/user/profile/index
+admin/user/user bulk
+admin/user/user bulk download
+admin/users
+admin/versions
+admin/webservice/documentation
+admin/webservice/service
+admin/webservice/service functions
+admin/webservice/testclient
+admin/webservice/tokens
+admin/websevice/service functions
+administrator
+admintooloauthissuersclever
+admintooloauthissuersfacebook
+admintooloauthissuersgoogle
+admintooloauthissuersimsobvp
+admintooloauthissuersmicrosoft
+admintooloauthissuersmoodlenet
+admintooloauthissuersnextcloud
+algebra filter
+assignfeedback/solutionsheet
+assignment
+atto applink
+atto filterws
+atto wordcount
+audio
+auth/cas
+auth/db
+auth/dev
+auth/email
+auth/fc
+auth/imap
+auth/ldap
+auth/manual
+auth/mnet
+auth/nntp
+auth/nologin
+auth/none
+auth/ntlm
+auth/oauth2/linkedlogins
+auth/pam
+auth/pop3
+auth/radius
+auth/shibboleth
+auth oidc
+authenticated user
+authentication
+availability/mobileapp
+availability message
+avatar
+backup/backup
+backup/copy
+backup/import
+backup/log
+backup/restore
+backup/restorefile
+badges
+badges/award
+badges/backpacks
+badges/badge
+badges/competency
+badges/criteria
+badges/criteria settings
+badges/edit
+badges/endorsement
+badges/external
+badges/index
+badges/mybackpack
+badges/mybadges
+badges/newbadge
+badges/overview
+badges/preferences
+badges/recipients
+badges/related
+badges/view
+block
+block/course list/config
+block/courses/config
+block/glossary export to quiz/edit
+block/online users/config
+block/remote rss feeds/config
+block/rss client/config
+block eledia coursewizard
+block links
+block links setup
+block socialbookmark
+block unitu notif
+blocks/active forums
+blocks/analytics recommendations/
+blocks/autoattend
+blocks/autoattend/class division
+blocks/autoattend/index
+blocks/autoattend/report
+blocks/blog tags
+blocks/catalogue
+blocks/catalogue/index
+blocks/cmanager/
+blocks/community/communitycourse
+blocks/configurable reports
+blocks/configurable reports/
+blocks/configurable reports/editcomp
+blocks/configurable reports/editplugin
+blocks/configurable reports/managereport
+blocks/csv enrol/
+blocks/csv enrol/edit
+blocks/deft/manage
+blocks/dfocrnational
+blocks/faces
+blocks/glossary random
+blocks/html
+blocks/inwicast/index
+blocks/mentees
+blocks/moderator guide/view
+blocks/moodletxt/addressbook contact add
+blocks/moodletxt/addressbook groups
+blocks/moodletxt/addressbook view
+blocks/moodletxt/addressbooks
+blocks/moodletxt/preferences
+blocks/moodletxt/send
+blocks/moodletxt/sent
+blocks/moodletxt/status
+blocks/mrbs/web/edit entry
+blocks/objectives
+blocks/objectives/edit
+blocks/pla/index
+blocks/planning/index
+blocks/poll/tabs
+blocks/progress/overview
+blocks/quickfindlist
+blocks/quiz results
+blocks/rss client
+blocks/rss client/block rss client action
+blocks/rss client/managefeeds
+blocks/section links
+blocks/simple clock
+blocks/stash
+blocks/stash/items
+blocks/tags
+blocks/timetracker/index
+blocks/unanswered discussions
+blocks/workflow/overview
+blocks/xp/index
+blog/edit
+blog/external blog edit
+blog/external blogs
+blog/index
+blog/preferences
+blog/tags
+bootstrap-Theme
+cPanel Shared Hosting Installation
+calculated question type
+calendar/event
+calendar/export
+calendar/managesubscriptions
+calendar/preferences
+calendar/view
+capabilities
+capability
+certificate module
+change theme
+chat
+cli
+cluster
+cmc/index
+cmc/jobs
+cmc/linktocampus
+cmc/siteconfig
+cohort/assign
+cohort/edit
+cohort/upload
+competencies
+compiling php from source
+config.php
+config file
+constructionism/
+contenbank
+contentbank
+contentbank/edit
+context
+course/
+course/bulkcompletion
+course/category
+course/completion
+course/defaultcompletion
+course/delete
+course/edit
+course/editcategory
+course/editsection
+course/groups
+course/import
+course/importstudents
+course/index
+course/index/category
+course/management
+course/mod/book
+course/mod/hotpot
+course/pending
+course/publish/hubselector
+course/publish/index
+course/publish/metadata
+course/recent
+course/report
+course/report/completion/index
+course/report/log/index
+course/report/log/live
+course/report/outline/index
+course/report/participation/index
+course/report/progress/index
+course/report/stats/index
+course/request
+course/reset
+course/resources
+course/scales
+course/search
+course/switchrole
+course/user
+course/view
+course/view/buttons
+course/view/grid
+course/view/multitopic
+course/view/onetopic
+course/view/slides
+course/view/social
+course/view/socialwall
+course/view/topcoll
+course/view/topics
+course/view/weeks
+course backup
+course display
+course homepage
+course overview
+course restore
+course settings
+coursefiles2
+courses
+curriculum mapping
+dashboard
+deploying custom emoticons
+dev/index
+dns
+eLeDia Webservicesuite
+editor tiny/tiny autosave/plugin
+enrol
+enrol/cohort/edit
+enrol/database
+enrol/editenrolment
+enrol/editinstance
+enrol/flatfile
+enrol/guest
+enrol/imsenterprise
+enrol/imsenterprise/importnow
+enrol/instances
+enrol/ldap
+enrol/lmb
+enrol/lti/edit
+enrol/lti/index
+enrol/manual
+enrol/manual/edit
+enrol/manual/manage
+enrol/meta/edit
+enrol/mnet
+enrol/otherusers
+enrol/paypal
+enrol/renameroles
+enrol/self/edit
+enrol/users
+enrol coursecompleted
+enrol mpcheckoutpro
+enrollment key
+enrolment
+enrolment key
+eportfolio
+error/admin/accessdenied
+error/admin/cronerrorclionly
+error/admin/cronerrorpassword
+error/admin/installhijacked
+error/admin/installsessionerror
+error/admin/sectionerror
+error/admin/unicoderequired
+error/analytics/errorprocessornotready
+error/assign/errornosubmissions
+error/auth/auth dbcantconnect
+error/auth/auth emailnoemail
+error/auth/auth ldap noconnect all
+error/auth/auth ldapnotinstalled
+error/auth/nopasswordchange
+error/auth/nopasswordchangeforced
+error/auth/shib no attributes error
+error/auth email/auth emailnoemail
+error/auth ldap/auth ldap noconnect all
+error/auth ldap/ntlmsso iwamagicnotenabled
+error/auth saml2/exception
+error/auth shibboleth/auth shib error login
+error/badges/badgesdisabled
+error/badges/error:nosuchbadge
+error/bigbluebuttonbn/view error unable join
+error/bigbluebuttonbn/view error unable join teacher
+error/block echo360 echocenter/unexpected response
+error/block email list/forbiddencreatefolder
+error/block email list/invalidcourseid
+error/block exabis eportfolio/nocategories
+error/block moodletxt/errorbadbookid
+error/block moodletxt/errorbadmessageid
+error/block moodletxt/errornoaccountspresent
+error/block moodletxt/errornopermissionmessage
+error/block quickmail/no usergroups
+error/block sharing cart/unexpected error
+error/block spam deletion/messageblocked
+error/blog/blogdisable
+error/blog/noguestpost
+error/cache/ex configcannotsave
+error/cannot finish ui if not setting u
+error/choicegroup/nogroupincourse
+error/choicegroup/pleasesetonegroup
+error/core contentbank/contextnotallowed
+error/core plugin/corrupted archive structure
+error/core plugin/detectedmisplacedplugin
+error/core plugin/err cannot uninstall plugin
+error/core plugin/err removing unknown plugin
+error/core plugin/err response curl
+error/core plugin/err response empty
+error/core plugin/err response format version
+error/core plugin/err response http code
+error/data/fieldnotmatched
+error/data/invalidrecord
+error/data/nofieldindatabase
+error/data/notapproved
+error/debug/authpluginnotfound
+error/debug/cannotdowngrade
+error/debug/codingerror
+error/debug/missingconfigversion
+error/debug/nomodules
+error/error/cannotsavemd5file
+error/error/filenotfound
+error/error/iplookupprivate
+error/error/sessionipnomatch
+error/forum/nopostdiscussion
+error/forum/nopostforum
+error/forum/notexists
+error/forum/noviewdiscussionspermission
+error/gradereport btec/nooutcomedata
+error/gradereport btec/outcomesdisabled
+error/grades/gradesneedregrading
+error/group/erroraddremoveuser
+error/group/errorinvalidgroup
+error/hub/badport
+error/hub/errorcoursepublish
+error/lesson/cannotfindfirstpage
+error/local amos/contributionaccessdenied
+error/local hub/cannotregisterbadport
+error/local hub/cannotregisternotavailablesite
+error/local hub/freshmoodleregistrationerror
+error/local hub/freshmoodleregistrationerror2
+error/local hubdirectory/cannotregisternotavailablehub
+error/mnet/auth imapnotinstalled
+error/mnet/hostnotconfiguredforsso
+error/mnet/nocurl
+error/mnet/nolocaluser
+error/mnet/notpermittedtojump
+error/mnet/requiresopenssl
+error/mnet/sso mnet login refused
+error/mod attendance/qr pass wrong
+error/moodle/Can not contact user
+error/moodle/Lang version (3.6) not found
+error/moodle/No questions found
+error/moodle/activity task coursemodule not found
+error/moodle/adminprimarynoedit
+error/moodle/auth ssosigarra error user
+error/moodle/cannot empty backup temp dir
+error/moodle/cannot finish ui if not setting ui
+error/moodle/cannotcustomizelocallang
+error/moodle/cannotdownloadlanguageupdatelist
+error/moodle/cannotedituserpreferences
+error/moodle/cannotedityourprofile
+error/moodle/cannotimport
+error/moodle/cannotmailconfirm
+error/moodle/cannotmapfield
+error/moodle/cannotreadtmpfile
+error/moodle/cannotsavemd5file
+error/moodle/cannotservefile
+error/moodle/cannotupdaterecord
+error/moodle/cannotviewcategory
+error/moodle/cannotviewprofile
+error/moodle/cmunknown
+error/moodle/confirmationnotenabled
+error/moodle/confirmsesskeybad
+error/moodle/could not upgrade google authtoken to session token
+error/moodle/couldnotassignrole
+error/moodle/coursehidden
+error/moodle/coursenotcreated
+error/moodle/coursenotupdated
+error/moodle/csvloaderror
+error/moodle/ddldependencyerror
+error/moodle/ddlexecuteerror
+error/moodle/ddlfieldnotexist
+error/moodle/ddltablealreadyexists
+error/moodle/detectedbrokenplugin
+error/moodle/disableunenroll
+error/moodle/dmlreadexception
+error/moodle/dmlwriteexception
+error/moodle/downgradedcore
+error/moodle/downloadedfilecheckfailed
+error/moodle/error question answers missing in db
+error/moodle/error question match sub missing in db
+error/moodle/errorwhenconfirming
+error/moodle/file not writable
+error/moodle/filenotfound
+error/moodle/filereferenceproblem
+error/moodle/filternotenabled
+error/moodle/forgotteninvalidurl
+error/moodle/generalexceptionmessage
+error/moodle/groupnotamember
+error/moodle/guestnoeditprofile
+error/moodle/guestnoeditprofileother
+error/moodle/guestsarenotallowed
+error/moodle/hashpoolproblem
+error/moodle/hiddentokenalreadyexist
+error/moodle/hubnotenabled
+error/moodle/invalidconfirmdata
+error/moodle/invalidcourse
+error/moodle/invalidcoursemodule
+error/moodle/invalidfieldname
+error/moodle/invalidpersistenterror
+error/moodle/invalidqueryparam
+error/moodle/invalidrecord
+error/moodle/invalidrecordunknown
+error/moodle/invalidrestorefile
+error/moodle/invalidsesskey
+error/moodle/invaliduser
+error/moodle/invalidusername
+error/moodle/iplookupprivate
+error/moodle/maxsectionslimit
+error/moodle/missing moodle backup xml file
+error/moodle/missingparam
+error/moodle/mod autoattendmod/already one instance is exist in this course
+error/moodle/mustbeloggedin
+error/moodle/noJavaMachine
+error/moodle/noclass
+error/moodle/nocontext
+error/moodle/nologinas
+error/moodle/noparticipants
+error/moodle/nopermissions
+error/moodle/nopermissiontoviewcalendar
+error/moodle/nostatstodisplay
+error/moodle/notlocalisederrormessage
+error/moodle/onlyadmins
+error/moodle/onlyeditown
+error/moodle/problem deleting old backup temp dirs
+error/moodle/restore block missing parent ctx
+error/moodle/restore user missing capability
+error/moodle/rpcerror
+error/moodle/secretalreadyused
+error/moodle/sessionipnomatch
+error/moodle/setting by name not found
+error/moodle/setting invalid ui label
+error/moodle/sslonlyaccess
+error/moodle/storedfilecannotread
+error/moodle/textconditionsnotallowed
+error/moodle/tmp backup directory not found
+error/moodle/unicodeupgradeerror
+error/moodle/unsupported subplugin
+error/moodle/usernotavailable
+error/moodle/wrong setting level moodle backup xml file
+error/onenote/Could not open the OneNote page for this submission or feedback.
+error/oublog/accessdenied
+error/portfolio/portfolio:doanything:false
+error/qtype combined/nosubquestiontypesinstalled
+error/qtype opaque/accessoutofsequence
+error/qtype opaque/onequestionperpage
+error/qtype stack/exceptionmessage
+error/question/cannotenable
+error/question/cannotgetdsfordependent
+error/question/missingcourseorcmid
+error/question/missingimportantcode
+error/question/noquestions
+error/question/unknownquestiontype
+error/quiz/attemptalreadyclosed
+error/quiz/attempterror
+error/quiz/attempterrorcontentchangeforuser
+error/quiz/cannotstartgradesmismatch
+error/quiz/importerror
+error/quiz/invalidcategory
+error/quiz/noquestions
+error/quiz/notenoughrandomquestions
+error/quiz/subneterror
+error/repository/cannotdownloaddir
+error/repository/instancenotsaved
+error/repository/invalidrepositoryid
+error/repository/nodefaultrepositoryplugin
+error/resource mrcuteput/mrcute fileexists
+error/search/enginenotinstalled
+error/search/engineserverstatus
+error/tool installaddon/err curl exec
+error/tool uploadcourse/csvfileerror
+error/treasurehunt/treasurehuntislocked
+error/turnitintool/string
+error/webservice/docaccessrefused
+error/wiki/cannotviewpage
+error/wiki/nocontent
+essay question type
+evolve-D theme
+experimental:Finding and Selecting A Web Host
+feedback module
+file picker
+files/converter/unoconv/testunoconv
+files/coursefilesedit
+files/index
+files/index/backupdata
+filter/censor/config
+filter/manage
+filter/multilang/config
+filter/tex/config
+filter applink
+filter generico
+filter multiembed
+filter oembed
+filter ws
+five key principles
+format glendon
+formslib
+forum
+forum/forumng
+forums/
+front page
+git
+glossary
+grade/aggregation
+grade/calculation
+grade/edit/letter/edit
+grade/edit/letter/index
+grade/edit/outcome/course
+grade/edit/outcome/edit
+grade/edit/outcome/import
+grade/edit/outcome/index
+grade/edit/scale/edit
+grade/edit/scale/index
+grade/edit/settings/index
+grade/edit/simple tree/category
+grade/edit/simple tree/item
+grade/edit/tree/calculation
+grade/edit/tree/category
+grade/edit/tree/grade
+grade/edit/tree/index
+grade/edit/tree/item
+grade/edit/tree/outcomeitem
+grade/export/key
+grade/export/keymanager
+grade/export/ods/index
+grade/export/txt/index
+grade/export/xls/index
+grade/export/xml/index
+grade/grading/form/guide/edit
+grade/grading/form/rubric/edit
+grade/grading/manage
+grade/grading/pick
+grade/import/csv/index
+grade/import/direct/index
+grade/import/key
+grade/import/keymanager
+grade/import/mymathlab/index
+grade/import/smart/index
+grade/import/xml/index
+grade/index
+grade/outcome
+grade/report/gradedist/index
+grade/report/grader/index
+grade/report/grader/preferences
+grade/report/history/index
+grade/report/outcomes/index
+grade/report/outcomes/site
+grade/report/overview/index
+grade/report/quick edit/index
+grade/report/singleview/index
+grade/report/user/index
+grade/scale
+grade calculations
+grade export
+gradebookplus
+grader report
+group/assign
+group/autogroup
+group/edit
+group/group
+group/grouping
+group/groupings
+group/import
+group/index
+group/members
+group/overview
+groupings
+groups
+groups/members
+h5p
+h5p/libraries
+h5p/overview
+help
+iAssign
+iAssign Filter
+idnumber
+index
+install on OS X
+jitsi
+jsMath
+jumps
+label
+langpack
+language
+language packs
+large installations
+latexrender
+learning objects
+learning plans
+licenses
+lightbox
+lightboxgallery
+lighttpd
+local/Recycle bin
+local/amos/contrib
+local/amos/importfile
+local/amos/index
+local/amos/log
+local/amos/stage
+local/amos/view
+local/booking/availability
+local/booking/logbook
+local/booking/view
+local/checkmarkreport/index
+local/differentiator/index
+local/downloadcenter/index
+local/mail/view
+local/userenrols/import
+local compatability test
+local courseteam
+local o365
+local sqlbuddy
+login/confirm
+login/index
+ludilearn
+mail configuration
+maintenance mode
+manual enrolment
+masquerading
+mceconf
+message
+message/
+message/edit
+message/history
+message/index
+message/notificationpreferences
+message/output/airnotifier/requestaccesskey
+message/output/popup/notifications
+mmoGame module
+mmoGame module/quiz
+mobile
+mod/activequiz/edit
+mod/activequiz/mod
+mod/activequiz/responses
+mod/assign/feedback/editpdf/testunoconv
+mod/assign/feedback/editpdf/testunoconv/initd
+mod/assign/feedback/editpdf/testunoconv/initdcentos6
+mod/assign/feedback/editpdf/testunoconv/launchd
+mod/assign/feedback/editpdf/testunoconv/systemd
+mod/assign/feedback/editpdf/testunoconv/upstart
+mod/assign/grading
+mod/assign/mod
+mod/assign/overrideedit
+mod/assign/overrides
+mod/assign/view
+mod/assignment
+mod/assignment/config
+mod/assignment/index
+mod/assignment/mod
+mod/assignment/offline
+mod/assignment/online
+mod/assignment/submissions
+mod/assignment/type/rtcollaboration/text
+mod/assignment/upload
+mod/assignment/uploadsingle
+mod/assignment/view
+mod/attendance/
+mod/attendance/export
+mod/attendance/manage
+mod/attendance/preferences
+mod/attendance/report
+mod/attendance/sessions
+mod/attendance/take
+mod/attendance/tempusers
+mod/audiorecorder/view
+mod/bigbluebuttonbn/mod
+mod/book
+mod/book/edit
+mod/book/index
+mod/book/mod
+mod/book/view
+mod/cardbox/view
+mod/certificate/mod
+mod/certificate/report my certificates
+mod/certificate/view
+mod/chat
+mod/chat/config
+mod/chat/gui header js/index
+mod/chat/index
+mod/chat/mod
+mod/chat/view
+mod/checklist/view
+mod/checkmark/mod
+mod/checkmark/submissions
+mod/checkmark/view
+mod/choice
+mod/choice/index
+mod/choice/mod
+mod/choice/report
+mod/choice/view
+mod/choicegroup
+mod/choicegroup/mod
+mod/choicegroup/view
+mod/collabora/mod
+mod/collabora/view
+mod/consentform/listusers
+mod/consentform/mod
+mod/consentform/modulelist
+mod/consentform/view
+mod/coursecertificate/view
+mod/customcert/edit
+mod/customcert/edit element
+mod/customcert/manage templates
+mod/customcert/mod
+mod/customcert/rearrange
+mod/customcert/upload image
+mod/customcert/view
+mod/cvsadmin/view
+mod/data
+mod/data/config
+mod/data/edit
+mod/data/export
+mod/data/field
+mod/data/field/
+mod/data/field/checkbox
+mod/data/field/date
+mod/data/field/file
+mod/data/field/latlong
+mod/data/field/menu
+mod/data/field/multimenu
+mod/data/field/number
+mod/data/field/picture
+mod/data/field/radiobutton
+mod/data/field/text
+mod/data/field/textarea
+mod/data/field/url
+mod/data/fields
+mod/data/import
+mod/data/index
+mod/data/mod
+mod/data/preset
+mod/data/templates
+mod/data/view
+mod/dataform/access/index
+mod/dataform/mod
+mod/dataform/view
+mod/dataform/view/index
+mod/dialogue/mod
+mod/dialogue/view
+mod/diary/mod
+mod/diary/report
+mod/diary/reportsingle
+mod/diary/view
+mod/englishcentral/view
+mod/feedback
+mod/feedback/analysis
+mod/feedback/complete
+mod/feedback/edit
+mod/feedback/edit item
+mod/feedback/import
+mod/feedback/index
+mod/feedback/mod
+mod/feedback/show entries
+mod/feedback/show nonrespondents
+mod/feedback/use templ
+mod/feedback/view
+mod/file
+mod/file/mod
+mod/flashcard/mod
+mod/flashcard/view
+mod/flax/mod
+mod/folder
+mod/folder/mod
+mod/folder/view
+mod/forum
+mod/forum/
+mod/forum/config
+mod/forum/discuss
+mod/forum/general
+mod/forum/index
+mod/forum/mod
+mod/forum/post
+mod/forum/subscribers
+mod/forum/user
+mod/forum/view
+mod/forumng/discuss
+mod/forumng/editpost
+mod/forumng/view
+mod/glossary
+mod/glossary/config
+mod/glossary/edit
+mod/glossary/formats
+mod/glossary/import
+mod/glossary/index
+mod/glossary/mod
+mod/glossary/showentry
+mod/glossary/view
+mod/groupselect
+mod/groupselect/mod
+mod/groupselect/view
+mod/grouptool/mod
+mod/grouptool/view
+mod/h5pactivity/mod
+mod/h5pactivity/view
+mod/h5pactivity:reviewattempts
+mod/hotpot/config
+mod/hotpot/index
+mod/hotpot/mod
+mod/hotpot/report
+mod/hotpot/view
+mod/hotquestion/view
+mod/hsuforum/mod
+mod/hvp/mod
+mod/hvp/view
+mod/imscp
+mod/imscp/mod
+mod/imscp/view
+mod/jitsi/view
+mod/journal
+mod/journal/report
+mod/journal/view
+mod/label
+mod/label/mod
+mod/label/view
+mod/lesson
+mod/lesson/addbranchtable
+mod/lesson/addpage
+mod/lesson/edit
+mod/lesson/editpage
+mod/lesson/essay
+mod/lesson/import
+mod/lesson/index
+mod/lesson/lesson
+mod/lesson/mod
+mod/lesson/report
+mod/lesson/view
+mod/lightboxgallery/view
+mod/liveclassroom/index
+mod/liveclassroom/mod
+mod/liveclassroom/view
+mod/lti
+mod/lti/coursetooledit
+mod/lti/coursetools
+mod/lti/index
+mod/lti/mod
+mod/lti/view
+mod/lti/view/custom
+mod/ltisource ecohub
+mod/mediasite
+mod/mediasite/mod
+mod/mediasite/search
+mod/mediasite/site/add
+mod/mindmap/view
+mod/mobiletags/view
+mod/offlinequiz/edit
+mod/offlinequiz/mod
+mod/offlinequiz/participants
+mod/offlinequiz/report
+mod/offlinequiz/view
+mod/organizer/mod
+mod/organizer/view
+mod/oublog/allposts
+mod/ouwiki/edit
+mod/page
+mod/page/mod
+mod/page/view
+mod/pdfannotator/mod
+mod/pdfannotator/view
+mod/plenum/view
+mod/publication/mod
+mod/publication/view
+mod/qcreate/exportgood
+mod/qcreate/view
+mod/qpractice/view
+mod/quest/view
+mod/questionnaire/conditional branching
+mod/questionnaire/index
+mod/questionnaire/mod
+mod/questionnaire/myreport
+mod/questionnaire/personality test
+mod/questionnaire/qsettings
+mod/questionnaire/questions
+mod/questionnaire/report
+mod/questionnaire/view
+mod/quiz
+mod/quiz/attempt
+mod/quiz/config
+mod/quiz/edit
+mod/quiz/grading
+mod/quiz/index
+mod/quiz/mod
+mod/quiz/overrideedit
+mod/quiz/question
+mod/quiz/report
+mod/quiz/review
+mod/quiz/statistics
+mod/quiz/summary
+mod/quiz/timing
+mod/quiz/view
+mod/quizgame/mod
+mod/quizgame/view
+mod/redpen/submissions
+mod/redpen/view
+mod/referentiel/activite
+mod/referentiel/bareme
+mod/referentiel/certificat
+mod/referentiel/export
+mod/referentiel/import instance
+mod/referentiel/task
+mod/referentiel/view
+mod/resource
+mod/resource/config
+mod/resource/directory
+mod/resource/ims
+mod/resource/index
+mod/resource/mod
+mod/resource/text
+mod/resource/view
+mod/scheduler/bookingform
+mod/scheduler/conflict
+mod/scheduler/export
+mod/scheduler/mod
+mod/scheduler/view
+mod/scorm
+mod/scorm/config
+mod/scorm/index
+mod/scorm/mod
+mod/scorm/player
+mod/scorm/report
+mod/scorm/view
+mod/slideshow/captions
+mod/slideshow/mod
+mod/stampcoll/editstamps
+mod/stampcoll/index
+mod/stampcoll/mod
+mod/stampcoll/view
+mod/studentquiz/mod
+mod/studentquiz/view
+mod/studynotes/view
+mod/survey
+mod/survey/details
+mod/survey/index
+mod/survey/mod
+mod/survey/report
+mod/survey/view
+mod/surveypro/layout items
+mod/surveypro/layout preview
+mod/surveypro/mod
+mod/surveypro/mtemplate save
+mod/surveypro/utemplate import
+mod/surveypro/utemplate manage
+mod/surveypro/utemplate save
+mod/surveypro/view
+mod/surveypro/view export
+mod/surveypro/view import
+mod/swf/view
+mod/taskchain/mod
+mod/taskchain/view
+mod/techproject/view
+mod/techproject/view/capabilities
+mod/techproject/view/concepts/associations
+mod/techproject/view/concepts/grouping
+mod/techproject/view/configuration
+mod/techproject/view/missingfeatures
+mod/techproject/view/screens/assessment
+mod/techproject/view/screens/byassignee
+mod/techproject/view/screens/bypriority
+mod/techproject/view/screens/byworktype
+mod/techproject/view/screens/copy
+mod/techproject/view/screens/criteria
+mod/techproject/view/screens/deliverables
+mod/techproject/view/screens/detail
+mod/techproject/view/screens/gantt
+mod/techproject/view/screens/milestones
+mod/techproject/view/screens/requirements
+mod/techproject/view/screens/specifications
+mod/techproject/view/screens/summary
+mod/techproject/view/screens/tasks
+mod/termreview/alis
+mod/termreview/distribute
+mod/termreview/restore
+mod/termreview/uploadquals
+mod/termreview/view
+mod/turnitintool/view
+mod/unilabel/mod
+mod/unilabel/view
+mod/url
+mod/url/mod
+mod/url/view
+mod/videofile/mod
+mod/videofile/view
+mod/vpl/view
+mod/wiki
+mod/wiki/admin
+mod/wiki/comments
+mod/wiki/create
+mod/wiki/creole
+mod/wiki/edit
+mod/wiki/files
+mod/wiki/filesedit
+mod/wiki/history
+mod/wiki/index
+mod/wiki/map
+mod/wiki/mod
+mod/wiki/view
+mod/wiziq/mod
+mod/wizq/mod
+mod/wooclap
+mod/workshop
+mod/workshop/allocation
+mod/workshop/assessment
+mod/workshop/editform
+mod/workshop/index
+mod/workshop/mod
+mod/workshop/view
+mod enrolmenttimer
+mod mediasite
+mod simplelesson
+moderated enrolment
+moodle-report myfeedback
+moodledt
+moodlenet/shareprogress
+my
+my/
+my/index
+my/indexsys
+mycourses
+newmodule
+notes/add
+notes/edit
+notes/index
+outcome
+outcomes
+ownCloud
+ownCloud Repository
+page resource
+performance recommendations
+phpMyAdmin
+phpinfo
+phpmyadmin
+plugins/addversion
+plugins/atto wiris
+plugins/filter wiris
+plugins/index
+plugins/pluginversion
+plugins/pluginversions
+plugins/registerplugin
+plugins/review
+plugins/reviews
+plugins/search
+plugins/tinymce tiny mce wiris
+plugins/view
+portfolio/admin
+profilefield multiselect
+public/search
+public/search/
+qbehaviour/deferredcbm/certainty
+qbehaviour/deferredcbm/certaintygrade
+qbehaviour interactiveexplain
+qformat/aiken
+qformat/crossxml
+qformat/csv
+qformat/gift
+qformat/gift guessit
+qformat/giftmedia
+qformat/glossary
+qformat/h5p
+qformat/missingword
+qformat/qtex
+qformat/simplecsv
+qformat/webct
+qformat/xhtml
+qformat/xml
+qformat qtex
+qformat simplecsv
+question/bank/exportquestions/export
+question/bank/importquestions/import
+question/behaviour
+question/category
+question/edit
+question/export
+question/import
+question/type/Wordselect question type
+question/type/algebra
+question/type/answersselect
+question/type/calculated
+question/type/calculatedmulti
+question/type/calculatedobjects
+question/type/calculatedsimple
+question/type/coderunner
+question/type/combined
+question/type/conceptmap
+question/type/correctwriting
+question/type/ddimageortext
+question/type/ddmarker
+question/type/ddwtos
+question/type/description
+question/type/essay
+question/type/essayautograde
+question/type/formulas
+question/type/freehanddrawing
+question/type/gapfill
+question/type/gapselect
+question/type/gifteditor
+question/type/guessit
+question/type/jme
+question/type/kprime
+question/type/match
+question/type/multianswer
+question/type/multianswerrgx
+question/type/multichoice
+question/type/multichoiceset
+question/type/numerical
+question/type/ordering
+question/type/oumultiresponse
+question/type/pmatch
+question/type/preg
+question/type/random
+question/type/randomsamatch
+question/type/regexp
+question/type/shortanswer
+question/type/stack
+question/type/stack/doc/doc
+question/type/stack/doc/doc.php/Authoring/KeyVals.md
+question/type/truefalse
+question/type/varnumericset
+question/type/wordselect
+question bank
+question check no rqp questions
+question types
+questionnaire/questiontypes
+quiz
+readfile
+recycle bin
+register/index
+report/competency/index
+report/completion/index
+report/componentgrades
+report/editdates/index
+report/insights/insights
+report/insights/prediction
+report/log/index
+report/log/user
+report/myfeedback/index
+report/myfeedback/install
+report/outline/index
+report/outline/user
+report/participation/index
+report/performance
+report/progress/index
+report/security/report security check configrw
+report/security/report security check cookiesecure
+report/security/report security check defaultuserrole
+report/security/report security check displayerrors
+report/security/report security check emailchangeconfirmation
+report/security/report security check embed
+report/security/report security check frontpagerole
+report/security/report security check globals
+report/security/report security check google
+report/security/report security check guestrole
+report/security/report security check mediafilterswf
+report/security/report security check noauth
+report/security/report security check nodemodules
+report/security/report security check openprofiles
+report/security/report security check passwordpolicy
+report/security/report security check passwordsaltmain
+report/security/report security check preventexecpath
+report/security/report security check riskadmin
+report/security/report security check riskbackup
+report/security/report security check riskxss
+report/security/report security check unsecuredataroot
+report/security/report security check vendordir
+report/security/report security check webcron
+report/stats/index
+report/usersessions/user
+repository/manage instances
+repository office365
+resetpassword
+resource
+resources
+response activity
+restore/filealiases
+restrict access settings
+roles
+scales
+scheduled tasks
+search/index
+search elastic
+security
+session
+sessions
+setting:regionwidthdouble
+site/index
+site administration block
+site backup
+sites/
+sites/index
+skype module
+sms/configure
+softcourse
+stats/
+stats/index
+survey
+suspend user
+tag/edit
+tag/index
+tag/manage
+tag/search
+tags
+tele-TASK
+text editor
+theme/custom
+theme/custom theme/settings
+theme/index
+theme/preview
+tiny filterws
+tool reset mymoodle
+tool untoken oauth2
+tracksessionip
+umm: Unofficial Moodle Mobile app
+unicode
+unoconv
+update
+upgrade
+upgrade key
+upload users
+user/
+user/action redir
+user/contactsitesupport
+user/contentbank
+user/course
+user/edit
+user/editadvanced
+user/editor
+user/files
+user/forum
+user/index
+user/language
+user/managetoken
+user/policy
+user/portfolio
+user/preferences
+user/profile
+user/profile/index
+user/view
+userpics/
+userpix/
+userreport block
+using jquery datatables in moodle
+version of Moodle
+video
+webservice/testclient
+wiki
+wikindx
+wiziq live class module
+workplace/course/index/category
+workplace/course/search
