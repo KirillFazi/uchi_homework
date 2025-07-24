@@ -1,0 +1,63 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "moodle-rag-bot"
+version = "0.1.0"
+description = "RAG chatbot для Moodle документации"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [{include = "app"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.104.1"
+uvicorn = {extras = ["standard"], version = "^0.24.0"}
+chromadb = "^0.4.18"
+sentence-transformers = "^2.2.2"
+requests = "^2.31.0"
+httpx = "^0.27.0"
+pydantic = "^2.5.0"
+pydantic-settings = "^2.1.0"
+tqdm = "^4.66.1"
+mwparserfromhell = "^0.6.4"
+langchain = "*"
+langchain-community = "*"
+langchain-core = "*"
+langchain-ollama = "*"
+langchain-text-splitters = "*"
+langchain-huggingface = "*"
+langchain-chroma = "*"
+numpy = "^1.24.3"
+python-multipart = "^0.0.6"
+transformers = "^4.35.0"
+torch = "^2.1.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.3"
+pytest-asyncio = "^0.21.1"
+black = "^23.11.0"
+isort = "^5.12.0"
+flake8 = "^6.1.0"
+pre-commit = "^3.5.0"
+
+[tool.poetry.scripts]
+fetch-docs = "scripts.fetch_docs:main"
+chunk-docs = "scripts.chunk_docs:main"
+ingest-chroma = "scripts.ingest_chroma:main"
+eval-run = "scripts.eval_run:main"
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"] 
